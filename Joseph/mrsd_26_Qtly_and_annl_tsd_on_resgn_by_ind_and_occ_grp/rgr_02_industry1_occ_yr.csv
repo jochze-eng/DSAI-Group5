@@ -1,0 +1,521 @@
+year,industry1,occupation1,resignation_rate
+1998,total,total,2.1
+1998,total,"professional, managers, executive and technicians",1.4
+1998,total,"clerical, sales and services workers",2.9
+1998,total,"production and transport operators, cleaners and labourers",2
+1998,manufacturing,total,1.8
+1998,manufacturing,"professional, managers, executive and technicians",1.3
+1998,manufacturing,"clerical, sales and services workers",2.4
+1998,manufacturing,"production and transport operators, cleaners and labourers",1.9
+1998,construction,total,2.1
+1998,construction,"professional, managers, executive and technicians",1.8
+1998,construction,"clerical, sales and services workers",2.8
+1998,construction,"production and transport operators, cleaners and labourers",2.1
+1998,services,total,2.2
+1998,services,"professional, managers, executive and technicians",1.4
+1998,services,"clerical, sales and services workers",2.9
+1998,services,"production and transport operators, cleaners and labourers",2.2
+1998,others,total,1.8
+1998,others,"professional, managers, executive and technicians",1.6
+1998,others,"clerical, sales and services workers",2
+1998,others,"production and transport operators, cleaners and labourers",1.8
+1999,total,total,2.2
+1999,total,"professional, managers, executive and technicians",1.6
+1999,total,"clerical, sales and services workers",2.9
+1999,total,"production and transport operators, cleaners and labourers",2.1
+1999,manufacturing,total,1.9
+1999,manufacturing,"professional, managers, executive and technicians",1.4
+1999,manufacturing,"clerical, sales and services workers",2.1
+1999,manufacturing,"production and transport operators, cleaners and labourers",2
+1999,construction,total,2.2
+1999,construction,"professional, managers, executive and technicians",1.9
+1999,construction,"clerical, sales and services workers",2.3
+1999,construction,"production and transport operators, cleaners and labourers",2.2
+1999,services,total,2.4
+1999,services,"professional, managers, executive and technicians",1.6
+1999,services,"clerical, sales and services workers",3.1
+1999,services,"production and transport operators, cleaners and labourers",2.3
+1999,others,total,1.1
+1999,others,"professional, managers, executive and technicians",1
+1999,others,"clerical, sales and services workers",1.6
+1999,others,"production and transport operators, cleaners and labourers",1.3
+2000,total,total,2.5
+2000,total,"professional, managers, executive and technicians",2
+2000,total,"clerical, sales and services workers",3.5
+2000,total,"production and transport operators, cleaners and labourers",2.2
+2000,manufacturing,total,2.1
+2000,manufacturing,"professional, managers, executive and technicians",1.9
+2000,manufacturing,"clerical, sales and services workers",2.5
+2000,manufacturing,"production and transport operators, cleaners and labourers",2.2
+2000,construction,total,2.2
+2000,construction,"professional, managers, executive and technicians",2.2
+2000,construction,"clerical, sales and services workers",2.8
+2000,construction,"production and transport operators, cleaners and labourers",2.1
+2000,services,total,2.8
+2000,services,"professional, managers, executive and technicians",2.1
+2000,services,"clerical, sales and services workers",3.7
+2000,services,"production and transport operators, cleaners and labourers",2.3
+2000,others,total,2.5
+2000,others,"professional, managers, executive and technicians",0.6
+2000,others,"clerical, sales and services workers",1
+2000,others,"production and transport operators, cleaners and labourers",3.7
+2001,total,total,2.2
+2001,total,"professional, managers, executive and technicians",1.5
+2001,total,"clerical, sales and services workers",3.1
+2001,total,"production and transport operators, cleaners and labourers",2.2
+2001,manufacturing,total,1.8
+2001,manufacturing,"professional, managers, executive and technicians",1.3
+2001,manufacturing,"clerical, sales and services workers",2
+2001,manufacturing,"production and transport operators, cleaners and labourers",1.9
+2001,construction,total,2.4
+2001,construction,"professional, managers, executive and technicians",1.8
+2001,construction,"clerical, sales and services workers",2.7
+2001,construction,"production and transport operators, cleaners and labourers",2.5
+2001,services,total,2.4
+2001,services,"professional, managers, executive and technicians",1.6
+2001,services,"clerical, sales and services workers",3.3
+2001,services,"production and transport operators, cleaners and labourers",2.4
+2001,others,total,3
+2001,others,"professional, managers, executive and technicians",0.7
+2001,others,"clerical, sales and services workers",1.3
+2001,others,"production and transport operators, cleaners and labourers",4.3
+2002,total,total,2.1
+2002,total,"professional, managers, executive and technicians",1.4
+2002,total,"clerical, sales and services workers",2.8
+2002,total,"production and transport operators, cleaners and labourers",2.1
+2002,manufacturing,total,1.7
+2002,manufacturing,"professional, managers, executive and technicians",1.1
+2002,manufacturing,"clerical, sales and services workers",1.7
+2002,manufacturing,"production and transport operators, cleaners and labourers",1.9
+2002,construction,total,2.1
+2002,construction,"professional, managers, executive and technicians",2
+2002,construction,"clerical, sales and services workers",2.7
+2002,construction,"production and transport operators, cleaners and labourers",2.1
+2002,services,total,2.2
+2002,services,"professional, managers, executive and technicians",1.5
+2002,services,"clerical, sales and services workers",3
+2002,services,"production and transport operators, cleaners and labourers",2.5
+2002,others,total,3
+2002,others,"professional, managers, executive and technicians",0.7
+2002,others,"clerical, sales and services workers",1
+2002,others,"production and transport operators, cleaners and labourers",4.7
+2003,total,total,2
+2003,total,"professional, managers, executive and technicians",1.3
+2003,total,"clerical, sales and services workers",2.9
+2003,total,"production and transport operators, cleaners and labourers",2.1
+2003,manufacturing,total,1.6
+2003,manufacturing,"professional, managers, executive and technicians",1
+2003,manufacturing,"clerical, sales and services workers",1.7
+2003,manufacturing,"production and transport operators, cleaners and labourers",1.8
+2003,construction,total,2
+2003,construction,"professional, managers, executive and technicians",1.9
+2003,construction,"clerical, sales and services workers",2.3
+2003,construction,"production and transport operators, cleaners and labourers",2.1
+2003,services,total,2.3
+2003,services,"professional, managers, executive and technicians",1.4
+2003,services,"clerical, sales and services workers",3.1
+2003,services,"production and transport operators, cleaners and labourers",2.5
+2003,others,total,2.8
+2003,others,"professional, managers, executive and technicians",0.7
+2003,others,"clerical, sales and services workers",0.9
+2003,others,"production and transport operators, cleaners and labourers",4.4
+2004,total,total,2.2
+2004,total,"professional, managers, executive and technicians",1.6
+2004,total,"clerical, sales and services workers",3.1
+2004,total,"production and transport operators, cleaners and labourers",2.1
+2004,manufacturing,total,1.7
+2004,manufacturing,"professional, managers, executive and technicians",1.3
+2004,manufacturing,"clerical, sales and services workers",2.1
+2004,manufacturing,"production and transport operators, cleaners and labourers",1.8
+2004,construction,total,1.8
+2004,construction,"professional, managers, executive and technicians",1.9
+2004,construction,"clerical, sales and services workers",2.2
+2004,construction,"production and transport operators, cleaners and labourers",1.8
+2004,services,total,2.5
+2004,services,"professional, managers, executive and technicians",1.7
+2004,services,"clerical, sales and services workers",3.2
+2004,services,"production and transport operators, cleaners and labourers",2.7
+2004,others,total,2.9
+2004,others,"professional, managers, executive and technicians",0.8
+2004,others,"clerical, sales and services workers",1.4
+2004,others,"production and transport operators, cleaners and labourers",4.3
+2005,total,total,2.1
+2005,total,"professional, managers, executive and technicians",1.6
+2005,total,"clerical, sales and services workers",2.9
+2005,total,"production and transport operators, cleaners and labourers",2
+2005,manufacturing,total,1.6
+2005,manufacturing,"professional, managers, executive and technicians",1.3
+2005,manufacturing,"clerical, sales and services workers",2.1
+2005,manufacturing,"production and transport operators, cleaners and labourers",1.6
+2005,construction,total,1.8
+2005,construction,"professional, managers, executive and technicians",1.8
+2005,construction,"clerical, sales and services workers",2
+2005,construction,"production and transport operators, cleaners and labourers",1.8
+2005,services,total,2.4
+2005,services,"professional, managers, executive and technicians",1.7
+2005,services,"clerical, sales and services workers",3.1
+2005,services,"production and transport operators, cleaners and labourers",2.6
+2005,others,total,2.7
+2005,others,"professional, managers, executive and technicians",0.7
+2005,others,"clerical, sales and services workers",1.8
+2005,others,"production and transport operators, cleaners and labourers",4
+2006,total,total,2
+2006,total,"professional, managers, executive and technicians",1.5
+2006,total,"clerical, sales and services workers",2.9
+2006,total,"production and transport operators, cleaners and labourers",1.9
+2006,manufacturing,total,1.5
+2006,manufacturing,"professional, managers, executive and technicians",1.5
+2006,manufacturing,"clerical, sales and services workers",2.2
+2006,manufacturing,"production and transport operators, cleaners and labourers",1.5
+2006,construction,total,1.7
+2006,construction,"professional, managers, executive and technicians",2.2
+2006,construction,"clerical, sales and services workers",2.1
+2006,construction,"production and transport operators, cleaners and labourers",1.6
+2006,services,total,2.2
+2006,services,"professional, managers, executive and technicians",1.5
+2006,services,"clerical, sales and services workers",3
+2006,services,"production and transport operators, cleaners and labourers",2.7
+2006,others,total,1.1
+2006,others,"professional, managers, executive and technicians",0.5
+2006,others,"clerical, sales and services workers",1.5
+2006,others,"production and transport operators, cleaners and labourers",1.9
+2007,total,total,2
+2007,total,"professional, managers, executive and technicians",1.6
+2007,total,"clerical, sales and services workers",3
+2007,total,"production and transport operators, cleaners and labourers",1.9
+2007,manufacturing,total,1.5
+2007,manufacturing,"professional, managers, executive and technicians",1.5
+2007,manufacturing,"clerical, sales and services workers",2.1
+2007,manufacturing,"production and transport operators, cleaners and labourers",1.5
+2007,construction,total,1.7
+2007,construction,"professional, managers, executive and technicians",2.1
+2007,construction,"clerical, sales and services workers",2.3
+2007,construction,"production and transport operators, cleaners and labourers",1.5
+2007,services,total,2.3
+2007,services,"professional, managers, executive and technicians",1.6
+2007,services,"clerical, sales and services workers",3.1
+2007,services,"production and transport operators, cleaners and labourers",2.6
+2007,others,total,1.5
+2007,others,"professional, managers, executive and technicians",0.5
+2007,others,"clerical, sales and services workers",1.2
+2007,others,"production and transport operators, cleaners and labourers",2.6
+2008,total,total,2
+2008,total,"professional, managers, executive and technicians",1.5
+2008,total,"clerical, sales and services workers",2.9
+2008,total,"production and transport operators, cleaners and labourers",1.9
+2008,manufacturing,total,1.6
+2008,manufacturing,"professional, managers, executive and technicians",1.4
+2008,manufacturing,"clerical, sales and services workers",2.3
+2008,manufacturing,"production and transport operators, cleaners and labourers",1.6
+2008,construction,total,1.7
+2008,construction,"professional, managers, executive and technicians",2
+2008,construction,"clerical, sales and services workers",2.4
+2008,construction,"production and transport operators, cleaners and labourers",1.6
+2008,services,total,2.2
+2008,services,"professional, managers, executive and technicians",1.5
+2008,services,"clerical, sales and services workers",3
+2008,services,"production and transport operators, cleaners and labourers",2.5
+2008,others,total,2.1
+2008,others,"professional, managers, executive and technicians",0.7
+2008,others,"clerical, sales and services workers",1.8
+2008,others,"production and transport operators, cleaners and labourers",3.6
+2009,total,total,1.8
+2009,total,"professional, managers, executive and technicians",1.1
+2009,total,"clerical, sales and services workers",2.7
+2009,total,"production and transport operators, cleaners and labourers",1.9
+2009,manufacturing,total,1.5
+2009,manufacturing,"professional, managers, executive and technicians",1
+2009,manufacturing,"clerical, sales and services workers",2.1
+2009,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2009,construction,total,1.6
+2009,construction,"professional, managers, executive and technicians",1.7
+2009,construction,"clerical, sales and services workers",2.3
+2009,construction,"production and transport operators, cleaners and labourers",1.6
+2009,services,total,1.9
+2009,services,"professional, managers, executive and technicians",1.1
+2009,services,"clerical, sales and services workers",2.8
+2009,services,"production and transport operators, cleaners and labourers",2.5
+2009,others,total,2
+2009,others,"professional, managers, executive and technicians",0.5
+2009,others,"clerical, sales and services workers",1.2
+2009,others,"production and transport operators, cleaners and labourers",3.6
+2010,total,total,2
+2010,total,"professional, managers, executive and technicians",1.4
+2010,total,"clerical, sales and services workers",3.1
+2010,total,"production and transport operators, cleaners and labourers",2.1
+2010,manufacturing,total,1.5
+2010,manufacturing,"professional, managers, executive and technicians",1.3
+2010,manufacturing,"clerical, sales and services workers",2.3
+2010,manufacturing,"production and transport operators, cleaners and labourers",1.6
+2010,construction,total,1.8
+2010,construction,"professional, managers, executive and technicians",1.8
+2010,construction,"clerical, sales and services workers",2.1
+2010,construction,"production and transport operators, cleaners and labourers",1.7
+2010,services,total,2.3
+2010,services,"professional, managers, executive and technicians",1.4
+2010,services,"clerical, sales and services workers",3.3
+2010,services,"production and transport operators, cleaners and labourers",2.8
+2010,others,total,1.6
+2010,others,"professional, managers, executive and technicians",0.6
+2010,others,"clerical, sales and services workers",1.3
+2010,others,"production and transport operators, cleaners and labourers",2.9
+2011,total,total,2
+2011,total,"professional, managers, executive and technicians",1.4
+2011,total,"clerical, sales and services workers",3
+2011,total,"production and transport operators, cleaners and labourers",2.1
+2011,manufacturing,total,1.6
+2011,manufacturing,"professional, managers, executive and technicians",1.3
+2011,manufacturing,"clerical, sales and services workers",2.2
+2011,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2011,construction,total,1.7
+2011,construction,"professional, managers, executive and technicians",1.9
+2011,construction,"clerical, sales and services workers",2.2
+2011,construction,"production and transport operators, cleaners and labourers",1.6
+2011,services,total,2.2
+2011,services,"professional, managers, executive and technicians",1.4
+2011,services,"clerical, sales and services workers",3.1
+2011,services,"production and transport operators, cleaners and labourers",2.8
+2011,others,total,1.7
+2011,others,"professional, managers, executive and technicians",0.6
+2011,others,"clerical, sales and services workers",1.5
+2011,others,"production and transport operators, cleaners and labourers",3.2
+2012,total,total,2.1
+2012,total,"professional, managers, executive and technicians",1.3
+2012,total,"clerical, sales and services workers",3.1
+2012,total,"production and transport operators, cleaners and labourers",2.2
+2012,manufacturing,total,1.6
+2012,manufacturing,"professional, managers, executive and technicians",1.2
+2012,manufacturing,"clerical, sales and services workers",2.1
+2012,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2012,construction,total,1.8
+2012,construction,"professional, managers, executive and technicians",2.1
+2012,construction,"clerical, sales and services workers",2.4
+2012,construction,"production and transport operators, cleaners and labourers",1.7
+2012,services,total,2.3
+2012,services,"professional, managers, executive and technicians",1.3
+2012,services,"clerical, sales and services workers",3.3
+2012,services,"production and transport operators, cleaners and labourers",3.1
+2012,others,total,1.7
+2012,others,"professional, managers, executive and technicians",0.6
+2012,others,"clerical, sales and services workers",1.5
+2012,others,"production and transport operators, cleaners and labourers",2.7
+2013,total,total,2
+2013,total,"professional, managers, executive and technicians",1.3
+2013,total,"clerical, sales and services workers",3.1
+2013,total,"production and transport operators, cleaners and labourers",2.2
+2013,manufacturing,total,1.5
+2013,manufacturing,"professional, managers, executive and technicians",1.1
+2013,manufacturing,"clerical, sales and services workers",2.1
+2013,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2013,construction,total,2
+2013,construction,"professional, managers, executive and technicians",1.9
+2013,construction,"clerical, sales and services workers",2.3
+2013,construction,"production and transport operators, cleaners and labourers",2
+2013,services,total,2.2
+2013,services,"professional, managers, executive and technicians",1.3
+2013,services,"clerical, sales and services workers",3.2
+2013,services,"production and transport operators, cleaners and labourers",2.9
+2013,others,total,1.5
+2013,others,"professional, managers, executive and technicians",0.6
+2013,others,"clerical, sales and services workers",1.2
+2013,others,"production and transport operators, cleaners and labourers",2.5
+2014,total,total,2
+2014,total,"professional, managers, executive and technicians",1.3
+2014,total,"clerical, sales and services workers",3.1
+2014,total,"production and transport operators, cleaners and labourers",2.3
+2014,manufacturing,total,1.5
+2014,manufacturing,"professional, managers, executive and technicians",1.1
+2014,manufacturing,"clerical, sales and services workers",2.5
+2014,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2014,construction,total,1.9
+2014,construction,"professional, managers, executive and technicians",2
+2014,construction,"clerical, sales and services workers",2.4
+2014,construction,"production and transport operators, cleaners and labourers",1.8
+2014,services,total,2.2
+2014,services,"professional, managers, executive and technicians",1.3
+2014,services,"clerical, sales and services workers",3.2
+2014,services,"production and transport operators, cleaners and labourers",3.1
+2014,others,total,1.5
+2014,others,"professional, managers, executive and technicians",0.5
+2014,others,"clerical, sales and services workers",1.4
+2014,others,"production and transport operators, cleaners and labourers",3
+2015,total,total,1.9
+2015,total,"professional, managers, executive and technicians",1.3
+2015,total,"clerical, sales and services workers",2.8
+2015,total,"production and transport operators, cleaners and labourers",2.1
+2015,manufacturing,total,1.5
+2015,manufacturing,"professional, managers, executive and technicians",1.1
+2015,manufacturing,"clerical, sales and services workers",2.1
+2015,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2015,construction,total,1.8
+2015,construction,"professional, managers, executive and technicians",1.8
+2015,construction,"clerical, sales and services workers",2.1
+2015,construction,"production and transport operators, cleaners and labourers",1.8
+2015,services,total,2
+2015,services,"professional, managers, executive and technicians",1.3
+2015,services,"clerical, sales and services workers",2.9
+2015,services,"production and transport operators, cleaners and labourers",2.7
+2015,others,total,1.4
+2015,others,"professional, managers, executive and technicians",0.5
+2015,others,"clerical, sales and services workers",1.6
+2015,others,"production and transport operators, cleaners and labourers",2.6
+2016,total,total,1.8
+2016,total,"professional, managers, executive and technicians",1.2
+2016,total,"clerical, sales and services workers",2.7
+2016,total,"production and transport operators, cleaners and labourers",2.1
+2016,manufacturing,total,1.5
+2016,manufacturing,"professional, managers, executive and technicians",1
+2016,manufacturing,"clerical, sales and services workers",2.2
+2016,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2016,construction,total,1.7
+2016,construction,"professional, managers, executive and technicians",1.6
+2016,construction,"clerical, sales and services workers",1.6
+2016,construction,"production and transport operators, cleaners and labourers",1.7
+2016,services,total,1.9
+2016,services,"professional, managers, executive and technicians",1.2
+2016,services,"clerical, sales and services workers",2.8
+2016,services,"production and transport operators, cleaners and labourers",2.8
+2016,others,total,1.2
+2016,others,"professional, managers, executive and technicians",0.5
+2016,others,"clerical, sales and services workers",1.6
+2016,others,"production and transport operators, cleaners and labourers",2.4
+2017,total,total,1.8
+2017,total,"professional, managers, executive and technicians",1.2
+2017,total,"clerical, sales and services workers",2.6
+2017,total,"production and transport operators, cleaners and labourers",2.2
+2017,manufacturing,total,1.5
+2017,manufacturing,"professional, managers, executive and technicians",1
+2017,manufacturing,"clerical, sales and services workers",2.1
+2017,manufacturing,"production and transport operators, cleaners and labourers",1.9
+2017,construction,total,1.8
+2017,construction,"professional, managers, executive and technicians",1.6
+2017,construction,"clerical, sales and services workers",1.8
+2017,construction,"production and transport operators, cleaners and labourers",1.8
+2017,services,total,1.9
+2017,services,"professional, managers, executive and technicians",1.2
+2017,services,"clerical, sales and services workers",2.7
+2017,services,"production and transport operators, cleaners and labourers",2.8
+2017,others,total,1.4
+2017,others,"professional, managers, executive and technicians",0.6
+2017,others,"clerical, sales and services workers",1.4
+2017,others,"production and transport operators, cleaners and labourers",3
+2018,total,total,1.8
+2018,total,"professional, managers, executive and technicians",1.3
+2018,total,"clerical, sales and services workers",2.5
+2018,total,"production and transport operators, cleaners and labourers",2.2
+2018,manufacturing,total,1.6
+2018,manufacturing,"professional, managers, executive and technicians",1.1
+2018,manufacturing,"clerical, sales and services workers",2.2
+2018,manufacturing,"production and transport operators, cleaners and labourers",1.8
+2018,construction,total,1.8
+2018,construction,"professional, managers, executive and technicians",1.7
+2018,construction,"clerical, sales and services workers",2
+2018,construction,"production and transport operators, cleaners and labourers",1.8
+2018,services,total,1.9
+2018,services,"professional, managers, executive and technicians",1.3
+2018,services,"clerical, sales and services workers",2.6
+2018,services,"production and transport operators, cleaners and labourers",2.7
+2018,others,total,1.4
+2018,others,"professional, managers, executive and technicians",0.7
+2018,others,"clerical, sales and services workers",1.9
+2018,others,"production and transport operators, cleaners and labourers",2.7
+2019,total,total,1.8
+2019,total,"professional, managers, executive and technicians",1.2
+2019,total,"clerical, sales and services workers",2.6
+2019,total,"production and transport operators, cleaners and labourers",2.1
+2019,manufacturing,total,1.5
+2019,manufacturing,"professional, managers, executive and technicians",1
+2019,manufacturing,"clerical, sales and services workers",2.1
+2019,manufacturing,"production and transport operators, cleaners and labourers",1.7
+2019,construction,total,1.8
+2019,construction,"professional, managers, executive and technicians",1.8
+2019,construction,"clerical, sales and services workers",2
+2019,construction,"production and transport operators, cleaners and labourers",1.8
+2019,services,total,1.8
+2019,services,"professional, managers, executive and technicians",1.2
+2019,services,"clerical, sales and services workers",2.7
+2019,services,"production and transport operators, cleaners and labourers",2.6
+2019,others,total,1.2
+2019,others,"professional, managers, executive and technicians",0.6
+2019,others,"clerical, sales and services workers",2.1
+2019,others,"production and transport operators, cleaners and labourers",2
+2020,total,total,1.5
+2020,total,"professional, managers, executive and technicians",1
+2020,total,"clerical, sales and services workers",2.4
+2020,total,"production and transport operators, cleaners and labourers",1.9
+2020,manufacturing,total,1.2
+2020,manufacturing,"professional, managers, executive and technicians",0.8
+2020,manufacturing,"clerical, sales and services workers",1.7
+2020,manufacturing,"production and transport operators, cleaners and labourers",1.6
+2020,construction,total,1.4
+2020,construction,"professional, managers, executive and technicians",1.2
+2020,construction,"clerical, sales and services workers",1.4
+2020,construction,"production and transport operators, cleaners and labourers",1.5
+2020,services,total,1.6
+2020,services,"professional, managers, executive and technicians",1
+2020,services,"clerical, sales and services workers",2.5
+2020,services,"production and transport operators, cleaners and labourers",2.4
+2020,others,total,0.9
+2020,others,"professional, managers, executive and technicians",0.5
+2020,others,"clerical, sales and services workers",0.5
+2020,others,"production and transport operators, cleaners and labourers",1.8
+2021,total,total,1.7
+2021,total,"professional, managers, executive and technicians",1.3
+2021,total,"clerical, sales and services workers",2.5
+2021,total,"production and transport operators, cleaners and labourers",1.9
+2021,manufacturing,total,1.5
+2021,manufacturing,"professional, managers, executive and technicians",1.2
+2021,manufacturing,"clerical, sales and services workers",1.9
+2021,manufacturing,"production and transport operators, cleaners and labourers",1.9
+2021,construction,total,1.3
+2021,construction,"professional, managers, executive and technicians",1.4
+2021,construction,"clerical, sales and services workers",1.4
+2021,construction,"production and transport operators, cleaners and labourers",1.3
+2021,services,total,1.8
+2021,services,"professional, managers, executive and technicians",1.3
+2021,services,"clerical, sales and services workers",2.6
+2021,services,"production and transport operators, cleaners and labourers",2.3
+2021,others,total,1.1
+2021,others,"professional, managers, executive and technicians",0.8
+2021,others,"clerical, sales and services workers",1.4
+2021,others,"production and transport operators, cleaners and labourers",1.7
+2022,total,total,1.7
+2022,total,"professional, managers, executive and technicians",1.4
+2022,total,"clerical, sales and services workers",2.5
+2022,total,"production and transport operators, cleaners and labourers",1.8
+2022,manufacturing,total,1.5
+2022,manufacturing,"professional, managers, executive and technicians",1.2
+2022,manufacturing,"clerical, sales and services workers",1.8
+2022,manufacturing,"production and transport operators, cleaners and labourers",1.6
+2022,construction,total,1.3
+2022,construction,"professional, managers, executive and technicians",1.3
+2022,construction,"clerical, sales and services workers",1.4
+2022,construction,"production and transport operators, cleaners and labourers",1.3
+2022,services,total,1.8
+2022,services,"professional, managers, executive and technicians",1.4
+2022,services,"clerical, sales and services workers",2.6
+2022,services,"production and transport operators, cleaners and labourers",2.3
+2022,others,total,1.2
+2022,others,"professional, managers, executive and technicians",0.9
+2022,others,"clerical, sales and services workers",1.1
+2022,others,"production and transport operators, cleaners and labourers",1.8
+2023,total,total,1.4
+2023,total,"professional, managers, executive and technicians",1.1
+2023,total,"clerical, sales and services workers",2.1
+2023,total,"production and transport operators, cleaners and labourers",1.7
+2023,manufacturing,total,1.2
+2023,manufacturing,"professional, managers, executive and technicians",0.9
+2023,manufacturing,"clerical, sales and services workers",1.5
+2023,manufacturing,"production and transport operators, cleaners and labourers",1.5
+2023,construction,total,1.3
+2023,construction,"professional, managers, executive and technicians",1.2
+2023,construction,"clerical, sales and services workers",1.2
+2023,construction,"production and transport operators, cleaners and labourers",1.3
+2023,services,total,1.5
+2023,services,"professional, managers, executive and technicians",1.1
+2023,services,"clerical, sales and services workers",2.2
+2023,services,"production and transport operators, cleaners and labourers",2
+2023,others,total,1
+2023,others,"professional, managers, executive and technicians",0.7
+2023,others,"clerical, sales and services workers",1.1
+2023,others,"production and transport operators, cleaners and labourers",1.4
