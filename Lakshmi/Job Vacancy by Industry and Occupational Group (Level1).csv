@@ -1,0 +1,2141 @@
+quarter,industry1,occupation1,job_vacancy
+1998-Q1,total,total,26100
+1998-Q1,total,"professional, managers, executive and technicians",6500
+1998-Q1,total,"clerical, sales and services workers",8100
+1998-Q1,total,"production and transport operators, cleaners and labourers",11500
+1998-Q1,manufacturing,total,8200
+1998-Q1,manufacturing,"professional, managers, executive and technicians",1900
+1998-Q1,manufacturing,"clerical, sales and services workers",800
+1998-Q1,manufacturing,"production and transport operators, cleaners and labourers",5500
+1998-Q1,construction,total,3700
+1998-Q1,construction,"professional, managers, executive and technicians",300
+1998-Q1,construction,"clerical, sales and services workers",200
+1998-Q1,construction,"production and transport operators, cleaners and labourers",3200
+1998-Q1,services,total,14200
+1998-Q1,services,"professional, managers, executive and technicians",4300
+1998-Q1,services,"clerical, sales and services workers",7100
+1998-Q1,services,"production and transport operators, cleaners and labourers",2700
+1998-Q1,others,total,100
+1998-Q1,others,"professional, managers, executive and technicians",-
+1998-Q1,others,"clerical, sales and services workers",-
+1998-Q1,others,"production and transport operators, cleaners and labourers",-
+1998-Q2,total,total,19100
+1998-Q2,total,"professional, managers, executive and technicians",5100
+1998-Q2,total,"clerical, sales and services workers",7000
+1998-Q2,total,"production and transport operators, cleaners and labourers",7000
+1998-Q2,manufacturing,total,4600
+1998-Q2,manufacturing,"professional, managers, executive and technicians",1300
+1998-Q2,manufacturing,"clerical, sales and services workers",400
+1998-Q2,manufacturing,"production and transport operators, cleaners and labourers",2900
+1998-Q2,construction,total,3100
+1998-Q2,construction,"professional, managers, executive and technicians",300
+1998-Q2,construction,"clerical, sales and services workers",100
+1998-Q2,construction,"production and transport operators, cleaners and labourers",2700
+1998-Q2,services,total,11400
+1998-Q2,services,"professional, managers, executive and technicians",3600
+1998-Q2,services,"clerical, sales and services workers",6400
+1998-Q2,services,"production and transport operators, cleaners and labourers",1400
+1998-Q2,others,total,-
+1998-Q2,others,"professional, managers, executive and technicians",-
+1998-Q2,others,"clerical, sales and services workers",-
+1998-Q2,others,"production and transport operators, cleaners and labourers",-
+1998-Q3,total,total,15500
+1998-Q3,total,"professional, managers, executive and technicians",4200
+1998-Q3,total,"clerical, sales and services workers",4900
+1998-Q3,total,"production and transport operators, cleaners and labourers",6400
+1998-Q3,manufacturing,total,4000
+1998-Q3,manufacturing,"professional, managers, executive and technicians",1100
+1998-Q3,manufacturing,"clerical, sales and services workers",300
+1998-Q3,manufacturing,"production and transport operators, cleaners and labourers",2700
+1998-Q3,construction,total,2600
+1998-Q3,construction,"professional, managers, executive and technicians",200
+1998-Q3,construction,"clerical, sales and services workers",100
+1998-Q3,construction,"production and transport operators, cleaners and labourers",2300
+1998-Q3,services,total,8700
+1998-Q3,services,"professional, managers, executive and technicians",2900
+1998-Q3,services,"clerical, sales and services workers",4500
+1998-Q3,services,"production and transport operators, cleaners and labourers",1400
+1998-Q3,others,total,-
+1998-Q3,others,"professional, managers, executive and technicians",-
+1998-Q3,others,"clerical, sales and services workers",-
+1998-Q3,others,"production and transport operators, cleaners and labourers",-
+1998-Q4,total,total,12600
+1998-Q4,total,"professional, managers, executive and technicians",3900
+1998-Q4,total,"clerical, sales and services workers",4100
+1998-Q4,total,"production and transport operators, cleaners and labourers",4600
+1998-Q4,manufacturing,total,3900
+1998-Q4,manufacturing,"professional, managers, executive and technicians",1100
+1998-Q4,manufacturing,"clerical, sales and services workers",300
+1998-Q4,manufacturing,"production and transport operators, cleaners and labourers",2600
+1998-Q4,construction,total,1200
+1998-Q4,construction,"professional, managers, executive and technicians",200
+1998-Q4,construction,"clerical, sales and services workers",100
+1998-Q4,construction,"production and transport operators, cleaners and labourers",1000
+1998-Q4,services,total,7400
+1998-Q4,services,"professional, managers, executive and technicians",2600
+1998-Q4,services,"clerical, sales and services workers",3800
+1998-Q4,services,"production and transport operators, cleaners and labourers",1000
+1998-Q4,others,total,100
+1998-Q4,others,"professional, managers, executive and technicians",-
+1998-Q4,others,"clerical, sales and services workers",-
+1998-Q4,others,"production and transport operators, cleaners and labourers",100
+1999-Q1,total,total,16800
+1999-Q1,total,"professional, managers, executive and technicians",4600
+1999-Q1,total,"clerical, sales and services workers",5700
+1999-Q1,total,"production and transport operators, cleaners and labourers",6500
+1999-Q1,manufacturing,total,4300
+1999-Q1,manufacturing,"professional, managers, executive and technicians",1100
+1999-Q1,manufacturing,"clerical, sales and services workers",400
+1999-Q1,manufacturing,"production and transport operators, cleaners and labourers",2900
+1999-Q1,construction,total,2600
+1999-Q1,construction,"professional, managers, executive and technicians",200
+1999-Q1,construction,"clerical, sales and services workers",100
+1999-Q1,construction,"production and transport operators, cleaners and labourers",2300
+1999-Q1,services,total,9800
+1999-Q1,services,"professional, managers, executive and technicians",3300
+1999-Q1,services,"clerical, sales and services workers",5200
+1999-Q1,services,"production and transport operators, cleaners and labourers",1300
+1999-Q1,others,total,-
+1999-Q1,others,"professional, managers, executive and technicians",-
+1999-Q1,others,"clerical, sales and services workers",-
+1999-Q1,others,"production and transport operators, cleaners and labourers",-
+1999-Q2,total,total,19300
+1999-Q2,total,"professional, managers, executive and technicians",6600
+1999-Q2,total,"clerical, sales and services workers",6100
+1999-Q2,total,"production and transport operators, cleaners and labourers",6600
+1999-Q2,manufacturing,total,5900
+1999-Q2,manufacturing,"professional, managers, executive and technicians",1700
+1999-Q2,manufacturing,"clerical, sales and services workers",600
+1999-Q2,manufacturing,"production and transport operators, cleaners and labourers",3600
+1999-Q2,construction,total,1800
+1999-Q2,construction,"professional, managers, executive and technicians",200
+1999-Q2,construction,"clerical, sales and services workers",100
+1999-Q2,construction,"production and transport operators, cleaners and labourers",1600
+1999-Q2,services,total,11500
+1999-Q2,services,"professional, managers, executive and technicians",4700
+1999-Q2,services,"clerical, sales and services workers",5400
+1999-Q2,services,"production and transport operators, cleaners and labourers",1400
+1999-Q2,others,total,-
+1999-Q2,others,"professional, managers, executive and technicians",-
+1999-Q2,others,"clerical, sales and services workers",-
+1999-Q2,others,"production and transport operators, cleaners and labourers",-
+1999-Q3,total,total,25100
+1999-Q3,total,"professional, managers, executive and technicians",8400
+1999-Q3,total,"clerical, sales and services workers",7400
+1999-Q3,total,"production and transport operators, cleaners and labourers",9300
+1999-Q3,manufacturing,total,7400
+1999-Q3,manufacturing,"professional, managers, executive and technicians",2000
+1999-Q3,manufacturing,"clerical, sales and services workers",500
+1999-Q3,manufacturing,"production and transport operators, cleaners and labourers",4900
+1999-Q3,construction,total,1900
+1999-Q3,construction,"professional, managers, executive and technicians",300
+1999-Q3,construction,"clerical, sales and services workers",100
+1999-Q3,construction,"production and transport operators, cleaners and labourers",1500
+1999-Q3,services,total,14900
+1999-Q3,services,"professional, managers, executive and technicians",5400
+1999-Q3,services,"clerical, sales and services workers",6600
+1999-Q3,services,"production and transport operators, cleaners and labourers",2900
+1999-Q3,others,total,900
+1999-Q3,others,"professional, managers, executive and technicians",700
+1999-Q3,others,"clerical, sales and services workers",100
+1999-Q3,others,"production and transport operators, cleaners and labourers",100
+1999-Q4,total,total,22000
+1999-Q4,total,"professional, managers, executive and technicians",8100
+1999-Q4,total,"clerical, sales and services workers",6300
+1999-Q4,total,"production and transport operators, cleaners and labourers",7600
+1999-Q4,manufacturing,total,6400
+1999-Q4,manufacturing,"professional, managers, executive and technicians",1900
+1999-Q4,manufacturing,"clerical, sales and services workers",500
+1999-Q4,manufacturing,"production and transport operators, cleaners and labourers",4000
+1999-Q4,construction,total,1100
+1999-Q4,construction,"professional, managers, executive and technicians",200
+1999-Q4,construction,"clerical, sales and services workers",100
+1999-Q4,construction,"production and transport operators, cleaners and labourers",900
+1999-Q4,services,total,14300
+1999-Q4,services,"professional, managers, executive and technicians",5800
+1999-Q4,services,"clerical, sales and services workers",5800
+1999-Q4,services,"production and transport operators, cleaners and labourers",2700
+1999-Q4,others,total,200
+1999-Q4,others,"professional, managers, executive and technicians",200
+1999-Q4,others,"clerical, sales and services workers",-
+1999-Q4,others,"production and transport operators, cleaners and labourers",100
+2000-Q1,total,total,26200
+2000-Q1,total,"professional, managers, executive and technicians",9100
+2000-Q1,total,"clerical, sales and services workers",7300
+2000-Q1,total,"production and transport operators, cleaners and labourers",9700
+2000-Q1,manufacturing,total,8000
+2000-Q1,manufacturing,"professional, managers, executive and technicians",2300
+2000-Q1,manufacturing,"clerical, sales and services workers",800
+2000-Q1,manufacturing,"production and transport operators, cleaners and labourers",5000
+2000-Q1,construction,total,1900
+2000-Q1,construction,"professional, managers, executive and technicians",300
+2000-Q1,construction,"clerical, sales and services workers",100
+2000-Q1,construction,"production and transport operators, cleaners and labourers",1500
+2000-Q1,services,total,16000
+2000-Q1,services,"professional, managers, executive and technicians",6400
+2000-Q1,services,"clerical, sales and services workers",6400
+2000-Q1,services,"production and transport operators, cleaners and labourers",3200
+2000-Q1,others,total,200
+2000-Q1,others,"professional, managers, executive and technicians",100
+2000-Q1,others,"clerical, sales and services workers",-
+2000-Q1,others,"production and transport operators, cleaners and labourers",100
+2000-Q2,total,total,29800
+2000-Q2,total,"professional, managers, executive and technicians",11000
+2000-Q2,total,"clerical, sales and services workers",8700
+2000-Q2,total,"production and transport operators, cleaners and labourers",10000
+2000-Q2,manufacturing,total,9700
+2000-Q2,manufacturing,"professional, managers, executive and technicians",3000
+2000-Q2,manufacturing,"clerical, sales and services workers",800
+2000-Q2,manufacturing,"production and transport operators, cleaners and labourers",5900
+2000-Q2,construction,total,1800
+2000-Q2,construction,"professional, managers, executive and technicians",200
+2000-Q2,construction,"clerical, sales and services workers",200
+2000-Q2,construction,"production and transport operators, cleaners and labourers",1400
+2000-Q2,services,total,18100
+2000-Q2,services,"professional, managers, executive and technicians",7700
+2000-Q2,services,"clerical, sales and services workers",7700
+2000-Q2,services,"production and transport operators, cleaners and labourers",2700
+2000-Q2,others,total,200
+2000-Q2,others,"professional, managers, executive and technicians",100
+2000-Q2,others,"clerical, sales and services workers",-
+2000-Q2,others,"production and transport operators, cleaners and labourers",-
+2000-Q3,total,total,32400
+2000-Q3,total,"professional, managers, executive and technicians",11400
+2000-Q3,total,"clerical, sales and services workers",9200
+2000-Q3,total,"production and transport operators, cleaners and labourers",11800
+2000-Q3,manufacturing,total,10300
+2000-Q3,manufacturing,"professional, managers, executive and technicians",2800
+2000-Q3,manufacturing,"clerical, sales and services workers",700
+2000-Q3,manufacturing,"production and transport operators, cleaners and labourers",6800
+2000-Q3,construction,total,1700
+2000-Q3,construction,"professional, managers, executive and technicians",400
+2000-Q3,construction,"clerical, sales and services workers",100
+2000-Q3,construction,"production and transport operators, cleaners and labourers",1300
+2000-Q3,services,total,20000
+2000-Q3,services,"professional, managers, executive and technicians",8000
+2000-Q3,services,"clerical, sales and services workers",8300
+2000-Q3,services,"production and transport operators, cleaners and labourers",3600
+2000-Q3,others,total,300
+2000-Q3,others,"professional, managers, executive and technicians",200
+2000-Q3,others,"clerical, sales and services workers",100
+2000-Q3,others,"production and transport operators, cleaners and labourers",100
+2000-Q4,total,total,22100
+2000-Q4,total,"professional, managers, executive and technicians",8000
+2000-Q4,total,"clerical, sales and services workers",6900
+2000-Q4,total,"production and transport operators, cleaners and labourers",7200
+2000-Q4,manufacturing,total,6400
+2000-Q4,manufacturing,"professional, managers, executive and technicians",1900
+2000-Q4,manufacturing,"clerical, sales and services workers",500
+2000-Q4,manufacturing,"production and transport operators, cleaners and labourers",3900
+2000-Q4,construction,total,1000
+2000-Q4,construction,"professional, managers, executive and technicians",200
+2000-Q4,construction,"clerical, sales and services workers",100
+2000-Q4,construction,"production and transport operators, cleaners and labourers",700
+2000-Q4,services,total,14500
+2000-Q4,services,"professional, managers, executive and technicians",5700
+2000-Q4,services,"clerical, sales and services workers",6200
+2000-Q4,services,"production and transport operators, cleaners and labourers",2600
+2000-Q4,others,total,300
+2000-Q4,others,"professional, managers, executive and technicians",200
+2000-Q4,others,"clerical, sales and services workers",-
+2000-Q4,others,"production and transport operators, cleaners and labourers",-
+2001-Q1,total,total,19800
+2001-Q1,total,"professional, managers, executive and technicians",7400
+2001-Q1,total,"clerical, sales and services workers",6500
+2001-Q1,total,"production and transport operators, cleaners and labourers",5800
+2001-Q1,manufacturing,total,4500
+2001-Q1,manufacturing,"professional, managers, executive and technicians",1400
+2001-Q1,manufacturing,"clerical, sales and services workers",500
+2001-Q1,manufacturing,"production and transport operators, cleaners and labourers",2600
+2001-Q1,construction,total,1100
+2001-Q1,construction,"professional, managers, executive and technicians",200
+2001-Q1,construction,"clerical, sales and services workers",100
+2001-Q1,construction,"production and transport operators, cleaners and labourers",800
+2001-Q1,services,total,13900
+2001-Q1,services,"professional, managers, executive and technicians",5700
+2001-Q1,services,"clerical, sales and services workers",5800
+2001-Q1,services,"production and transport operators, cleaners and labourers",2400
+2001-Q1,others,total,300
+2001-Q1,others,"professional, managers, executive and technicians",200
+2001-Q1,others,"clerical, sales and services workers",100
+2001-Q1,others,"production and transport operators, cleaners and labourers",-
+2001-Q2,total,total,17300
+2001-Q2,total,"professional, managers, executive and technicians",6400
+2001-Q2,total,"clerical, sales and services workers",5300
+2001-Q2,total,"production and transport operators, cleaners and labourers",5600
+2001-Q2,manufacturing,total,4100
+2001-Q2,manufacturing,"professional, managers, executive and technicians",1300
+2001-Q2,manufacturing,"clerical, sales and services workers",400
+2001-Q2,manufacturing,"production and transport operators, cleaners and labourers",2400
+2001-Q2,construction,total,800
+2001-Q2,construction,"professional, managers, executive and technicians",100
+2001-Q2,construction,"clerical, sales and services workers",-
+2001-Q2,construction,"production and transport operators, cleaners and labourers",600
+2001-Q2,services,total,12100
+2001-Q2,services,"professional, managers, executive and technicians",4800
+2001-Q2,services,"clerical, sales and services workers",4800
+2001-Q2,services,"production and transport operators, cleaners and labourers",2500
+2001-Q2,others,total,300
+2001-Q2,others,"professional, managers, executive and technicians",200
+2001-Q2,others,"clerical, sales and services workers",100
+2001-Q2,others,"production and transport operators, cleaners and labourers",-
+2001-Q3,total,total,14100
+2001-Q3,total,"professional, managers, executive and technicians",5000
+2001-Q3,total,"clerical, sales and services workers",4100
+2001-Q3,total,"production and transport operators, cleaners and labourers",5000
+2001-Q3,manufacturing,total,3500
+2001-Q3,manufacturing,"professional, managers, executive and technicians",1000
+2001-Q3,manufacturing,"clerical, sales and services workers",200
+2001-Q3,manufacturing,"production and transport operators, cleaners and labourers",2300
+2001-Q3,construction,total,700
+2001-Q3,construction,"professional, managers, executive and technicians",200
+2001-Q3,construction,"clerical, sales and services workers",-
+2001-Q3,construction,"production and transport operators, cleaners and labourers",500
+2001-Q3,services,total,9600
+2001-Q3,services,"professional, managers, executive and technicians",3700
+2001-Q3,services,"clerical, sales and services workers",3800
+2001-Q3,services,"production and transport operators, cleaners and labourers",2200
+2001-Q3,others,total,200
+2001-Q3,others,"professional, managers, executive and technicians",100
+2001-Q3,others,"clerical, sales and services workers",-
+2001-Q3,others,"production and transport operators, cleaners and labourers",100
+2001-Q4,total,total,12500
+2001-Q4,total,"professional, managers, executive and technicians",4300
+2001-Q4,total,"clerical, sales and services workers",3300
+2001-Q4,total,"production and transport operators, cleaners and labourers",4900
+2001-Q4,manufacturing,total,3200
+2001-Q4,manufacturing,"professional, managers, executive and technicians",1000
+2001-Q4,manufacturing,"clerical, sales and services workers",200
+2001-Q4,manufacturing,"production and transport operators, cleaners and labourers",2000
+2001-Q4,construction,total,900
+2001-Q4,construction,"professional, managers, executive and technicians",100
+2001-Q4,construction,"clerical, sales and services workers",-
+2001-Q4,construction,"production and transport operators, cleaners and labourers",800
+2001-Q4,services,total,8100
+2001-Q4,services,"professional, managers, executive and technicians",3000
+2001-Q4,services,"clerical, sales and services workers",3100
+2001-Q4,services,"production and transport operators, cleaners and labourers",2000
+2001-Q4,others,total,300
+2001-Q4,others,"professional, managers, executive and technicians",100
+2001-Q4,others,"clerical, sales and services workers",-
+2001-Q4,others,"production and transport operators, cleaners and labourers",100
+2002-Q1,total,total,13900
+2002-Q1,total,"professional, managers, executive and technicians",4800
+2002-Q1,total,"clerical, sales and services workers",3400
+2002-Q1,total,"production and transport operators, cleaners and labourers",5600
+2002-Q1,manufacturing,total,4600
+2002-Q1,manufacturing,"professional, managers, executive and technicians",1500
+2002-Q1,manufacturing,"clerical, sales and services workers",200
+2004-Q1,construction,"clerical, sales and services workers",-
+2002-Q1,manufacturing,"production and transport operators, cleaners and labourers",2800
+2002-Q1,construction,total,700
+2002-Q1,construction,"professional, managers, executive and technicians",100
+2002-Q1,construction,"clerical, sales and services workers",-
+2002-Q1,construction,"production and transport operators, cleaners and labourers",500
+2002-Q1,services,total,8300
+2002-Q1,services,"professional, managers, executive and technicians",3000
+2002-Q1,services,"clerical, sales and services workers",3100
+2002-Q1,services,"production and transport operators, cleaners and labourers",2200
+2002-Q1,others,total,300
+2002-Q1,others,"professional, managers, executive and technicians",200
+2002-Q1,others,"clerical, sales and services workers",-
+2002-Q1,others,"production and transport operators, cleaners and labourers",100
+2002-Q2,total,total,16100
+2002-Q2,total,"professional, managers, executive and technicians",5100
+2002-Q2,total,"clerical, sales and services workers",4100
+2002-Q2,total,"production and transport operators, cleaners and labourers",6900
+2002-Q2,manufacturing,total,5400
+2002-Q2,manufacturing,"professional, managers, executive and technicians",1700
+2002-Q2,manufacturing,"clerical, sales and services workers",300
+2002-Q2,manufacturing,"production and transport operators, cleaners and labourers",3400
+2002-Q2,construction,total,900
+2002-Q2,construction,"professional, managers, executive and technicians",200
+2002-Q2,construction,"clerical, sales and services workers",100
+2002-Q2,construction,"production and transport operators, cleaners and labourers",600
+2002-Q2,services,total,9200
+2002-Q2,services,"professional, managers, executive and technicians",3100
+2002-Q2,services,"clerical, sales and services workers",3600
+2002-Q2,services,"production and transport operators, cleaners and labourers",2400
+2002-Q2,others,total,700
+2002-Q2,others,"professional, managers, executive and technicians",100
+2002-Q2,others,"clerical, sales and services workers",-
+2002-Q2,others,"production and transport operators, cleaners and labourers",500
+2002-Q3,total,total,17200
+2002-Q3,total,"professional, managers, executive and technicians",5000
+2002-Q3,total,"clerical, sales and services workers",5100
+2002-Q3,total,"production and transport operators, cleaners and labourers",7200
+2002-Q3,manufacturing,total,5900
+2002-Q3,manufacturing,"professional, managers, executive and technicians",1600
+2002-Q3,manufacturing,"clerical, sales and services workers",300
+2002-Q3,manufacturing,"production and transport operators, cleaners and labourers",4100
+2002-Q3,construction,total,600
+2002-Q3,construction,"professional, managers, executive and technicians",100
+2002-Q3,construction,"clerical, sales and services workers",-
+2002-Q3,construction,"production and transport operators, cleaners and labourers",500
+2002-Q3,services,total,10400
+2002-Q3,services,"professional, managers, executive and technicians",3100
+2002-Q3,services,"clerical, sales and services workers",4800
+2002-Q3,services,"production and transport operators, cleaners and labourers",2500
+2002-Q3,others,total,300
+2002-Q3,others,"professional, managers, executive and technicians",200
+2002-Q3,others,"clerical, sales and services workers",-
+2002-Q3,others,"production and transport operators, cleaners and labourers",100
+2002-Q4,total,total,12900
+2002-Q4,total,"professional, managers, executive and technicians",3800
+2002-Q4,total,"clerical, sales and services workers",3300
+2002-Q4,total,"production and transport operators, cleaners and labourers",5800
+2002-Q4,manufacturing,total,4400
+2002-Q4,manufacturing,"professional, managers, executive and technicians",1100
+2002-Q4,manufacturing,"clerical, sales and services workers",200
+2002-Q4,manufacturing,"production and transport operators, cleaners and labourers",3100
+2002-Q4,construction,total,600
+2002-Q4,construction,"professional, managers, executive and technicians",100
+2002-Q4,construction,"clerical, sales and services workers",-
+2002-Q4,construction,"production and transport operators, cleaners and labourers",500
+2002-Q4,services,total,7600
+2002-Q4,services,"professional, managers, executive and technicians",2500
+2002-Q4,services,"clerical, sales and services workers",3000
+2002-Q4,services,"production and transport operators, cleaners and labourers",2100
+2002-Q4,others,total,200
+2002-Q4,others,"professional, managers, executive and technicians",200
+2002-Q4,others,"clerical, sales and services workers",-
+2002-Q4,others,"production and transport operators, cleaners and labourers",-
+2003-Q1,total,total,12100
+2003-Q1,total,"professional, managers, executive and technicians",3800
+2003-Q1,total,"clerical, sales and services workers",3000
+2003-Q1,total,"production and transport operators, cleaners and labourers",5300
+2003-Q1,manufacturing,total,4100
+2003-Q1,manufacturing,"professional, managers, executive and technicians",1100
+2003-Q1,manufacturing,"clerical, sales and services workers",200
+2003-Q1,manufacturing,"production and transport operators, cleaners and labourers",2800
+2003-Q1,construction,total,500
+2003-Q1,construction,"professional, managers, executive and technicians",100
+2003-Q1,construction,"clerical, sales and services workers",-
+2003-Q1,construction,"production and transport operators, cleaners and labourers",400
+2003-Q1,services,total,7300
+2003-Q1,services,"professional, managers, executive and technicians",2500
+2003-Q1,services,"clerical, sales and services workers",2700
+2003-Q1,services,"production and transport operators, cleaners and labourers",2100
+2003-Q1,others,total,200
+2003-Q1,others,"professional, managers, executive and technicians",200
+2003-Q1,others,"clerical, sales and services workers",-
+2003-Q1,others,"production and transport operators, cleaners and labourers",-
+2003-Q2,total,total,12000
+2003-Q2,total,"professional, managers, executive and technicians",4000
+2003-Q2,total,"clerical, sales and services workers",2900
+2003-Q2,total,"production and transport operators, cleaners and labourers",5100
+2003-Q2,manufacturing,total,4300
+2003-Q2,manufacturing,"professional, managers, executive and technicians",1200
+2003-Q2,manufacturing,"clerical, sales and services workers",300
+2003-Q2,manufacturing,"production and transport operators, cleaners and labourers",2800
+2003-Q2,construction,total,700
+2003-Q2,construction,"professional, managers, executive and technicians",100
+2003-Q2,construction,"clerical, sales and services workers",-
+2003-Q2,construction,"production and transport operators, cleaners and labourers",600
+2003-Q2,services,total,6700
+2003-Q2,services,"professional, managers, executive and technicians",2500
+2003-Q2,services,"clerical, sales and services workers",2500
+2003-Q2,services,"production and transport operators, cleaners and labourers",1700
+2003-Q2,others,total,200
+2003-Q2,others,"professional, managers, executive and technicians",200
+2003-Q2,others,"clerical, sales and services workers",-
+2003-Q2,others,"production and transport operators, cleaners and labourers",100
+2003-Q3,total,total,13100
+2003-Q3,total,"professional, managers, executive and technicians",3600
+2003-Q3,total,"clerical, sales and services workers",3800
+2003-Q3,total,"production and transport operators, cleaners and labourers",5700
+2003-Q3,manufacturing,total,4500
+2003-Q3,manufacturing,"professional, managers, executive and technicians",1100
+2003-Q3,manufacturing,"clerical, sales and services workers",200
+2003-Q3,manufacturing,"production and transport operators, cleaners and labourers",3200
+2003-Q3,construction,total,600
+2003-Q3,construction,"professional, managers, executive and technicians",100
+2003-Q3,construction,"clerical, sales and services workers",-
+2003-Q3,construction,"production and transport operators, cleaners and labourers",400
+2003-Q3,services,total,7700
+2003-Q3,services,"professional, managers, executive and technicians",2200
+2003-Q3,services,"clerical, sales and services workers",3600
+2003-Q3,services,"production and transport operators, cleaners and labourers",2000
+2003-Q3,others,total,300
+2003-Q3,others,"professional, managers, executive and technicians",200
+2003-Q3,others,"clerical, sales and services workers",-
+2003-Q3,others,"production and transport operators, cleaners and labourers",200
+2003-Q4,total,total,13100
+2003-Q4,total,"professional, managers, executive and technicians",4300
+2003-Q4,total,"clerical, sales and services workers",4200
+2003-Q4,total,"production and transport operators, cleaners and labourers",4600
+2003-Q4,manufacturing,total,4100
+2003-Q4,manufacturing,"professional, managers, executive and technicians",1200
+2003-Q4,manufacturing,"clerical, sales and services workers",300
+2003-Q4,manufacturing,"production and transport operators, cleaners and labourers",2600
+2003-Q4,construction,total,400
+2003-Q4,construction,"professional, managers, executive and technicians",200
+2003-Q4,construction,"clerical, sales and services workers",100
+2003-Q4,construction,"production and transport operators, cleaners and labourers",200
+2003-Q4,services,total,8200
+2003-Q4,services,"professional, managers, executive and technicians",2600
+2003-Q4,services,"clerical, sales and services workers",3800
+2003-Q4,services,"production and transport operators, cleaners and labourers",1800
+2003-Q4,others,total,300
+2003-Q4,others,"professional, managers, executive and technicians",200
+2003-Q4,others,"clerical, sales and services workers",-
+2003-Q4,others,"production and transport operators, cleaners and labourers",100
+2004-Q1,total,total,15400
+2004-Q1,total,"professional, managers, executive and technicians",4800
+2004-Q1,total,"clerical, sales and services workers",4200
+2004-Q1,total,"production and transport operators, cleaners and labourers",6300
+2004-Q1,manufacturing,total,6200
+2004-Q1,manufacturing,"professional, managers, executive and technicians",1700
+2004-Q1,manufacturing,"clerical, sales and services workers",400
+2004-Q1,manufacturing,"production and transport operators, cleaners and labourers",4100
+2004-Q1,construction,total,300
+2004-Q1,construction,"professional, managers, executive and technicians",200
+2008-Q1,others,total,400
+2004-Q1,construction,"production and transport operators, cleaners and labourers",100
+2004-Q1,services,total,8600
+2004-Q1,services,"professional, managers, executive and technicians",2800
+2004-Q1,services,"clerical, sales and services workers",3800
+2004-Q1,services,"production and transport operators, cleaners and labourers",2000
+2004-Q1,others,total,300
+2004-Q1,others,"professional, managers, executive and technicians",200
+2004-Q1,others,"clerical, sales and services workers",-
+2004-Q1,others,"production and transport operators, cleaners and labourers",100
+2004-Q2,total,total,15400
+2004-Q2,total,"professional, managers, executive and technicians",5400
+2004-Q2,total,"clerical, sales and services workers",3800
+2004-Q2,total,"production and transport operators, cleaners and labourers",6200
+2004-Q2,manufacturing,total,4700
+2004-Q2,manufacturing,"professional, managers, executive and technicians",1500
+2004-Q2,manufacturing,"clerical, sales and services workers",400
+2004-Q2,manufacturing,"production and transport operators, cleaners and labourers",2800
+2004-Q2,construction,total,800
+2004-Q2,construction,"professional, managers, executive and technicians",200
+2004-Q2,construction,"clerical, sales and services workers",100
+2004-Q2,construction,"production and transport operators, cleaners and labourers",500
+2004-Q2,services,total,9700
+2004-Q2,services,"professional, managers, executive and technicians",3500
+2004-Q2,services,"clerical, sales and services workers",3300
+2004-Q2,services,"production and transport operators, cleaners and labourers",2800
+2004-Q2,others,total,300
+2004-Q2,others,"professional, managers, executive and technicians",200
+2004-Q2,others,"clerical, sales and services workers",-
+2004-Q2,others,"production and transport operators, cleaners and labourers",100
+2004-Q3,total,total,18900
+2004-Q3,total,"professional, managers, executive and technicians",6200
+2004-Q3,total,"clerical, sales and services workers",5200
+2004-Q3,total,"production and transport operators, cleaners and labourers",7400
+2004-Q3,manufacturing,total,5600
+2004-Q3,manufacturing,"professional, managers, executive and technicians",1800
+2004-Q3,manufacturing,"clerical, sales and services workers",300
+2004-Q3,manufacturing,"production and transport operators, cleaners and labourers",3500
+2004-Q3,construction,total,1000
+2004-Q3,construction,"professional, managers, executive and technicians",200
+2004-Q3,construction,"clerical, sales and services workers",-
+2004-Q3,construction,"production and transport operators, cleaners and labourers",800
+2004-Q3,services,total,12100
+2004-Q3,services,"professional, managers, executive and technicians",4100
+2004-Q3,services,"clerical, sales and services workers",4900
+2004-Q3,services,"production and transport operators, cleaners and labourers",3000
+2004-Q3,others,total,200
+2004-Q3,others,"professional, managers, executive and technicians",100
+2004-Q3,others,"clerical, sales and services workers",-
+2004-Q3,others,"production and transport operators, cleaners and labourers",100
+2004-Q4,total,total,16200
+2004-Q4,total,"professional, managers, executive and technicians",5800
+2004-Q4,total,"clerical, sales and services workers",4600
+2004-Q4,total,"production and transport operators, cleaners and labourers",5900
+2004-Q4,manufacturing,total,5200
+2004-Q4,manufacturing,"professional, managers, executive and technicians",1700
+2004-Q4,manufacturing,"clerical, sales and services workers",400
+2004-Q4,manufacturing,"production and transport operators, cleaners and labourers",3200
+2004-Q4,construction,total,400
+2004-Q4,construction,"professional, managers, executive and technicians",100
+2004-Q4,construction,"clerical, sales and services workers",-
+2004-Q4,construction,"production and transport operators, cleaners and labourers",300
+2004-Q4,services,total,10400
+2004-Q4,services,"professional, managers, executive and technicians",3900
+2004-Q4,services,"clerical, sales and services workers",4200
+2004-Q4,services,"production and transport operators, cleaners and labourers",2300
+2004-Q4,others,total,300
+2004-Q4,others,"professional, managers, executive and technicians",100
+2004-Q4,others,"clerical, sales and services workers",-
+2004-Q4,others,"production and transport operators, cleaners and labourers",100
+2005-Q1,total,total,17500
+2005-Q1,total,"professional, managers, executive and technicians",6300
+2005-Q1,total,"clerical, sales and services workers",5500
+2005-Q1,total,"production and transport operators, cleaners and labourers",5800
+2005-Q1,manufacturing,total,5600
+2005-Q1,manufacturing,"professional, managers, executive and technicians",2300
+2005-Q1,manufacturing,"clerical, sales and services workers",500
+2005-Q1,manufacturing,"production and transport operators, cleaners and labourers",2900
+2005-Q1,construction,total,500
+2005-Q1,construction,"professional, managers, executive and technicians",200
+2005-Q1,construction,"clerical, sales and services workers",-
+2005-Q1,construction,"production and transport operators, cleaners and labourers",200
+2005-Q1,services,total,11200
+2005-Q1,services,"professional, managers, executive and technicians",3700
+2005-Q1,services,"clerical, sales and services workers",5000
+2005-Q1,services,"production and transport operators, cleaners and labourers",2500
+2005-Q1,others,total,200
+2005-Q1,others,"professional, managers, executive and technicians",-
+2005-Q1,others,"clerical, sales and services workers",-
+2005-Q1,others,"production and transport operators, cleaners and labourers",200
+2005-Q2,total,total,19200
+2005-Q2,total,"professional, managers, executive and technicians",7000
+2005-Q2,total,"clerical, sales and services workers",5300
+2005-Q2,total,"production and transport operators, cleaners and labourers",6900
+2005-Q2,manufacturing,total,6800
+2005-Q2,manufacturing,"professional, managers, executive and technicians",2500
+2005-Q2,manufacturing,"clerical, sales and services workers",400
+2005-Q2,manufacturing,"production and transport operators, cleaners and labourers",3900
+2005-Q2,construction,total,600
+2005-Q2,construction,"professional, managers, executive and technicians",200
+2005-Q2,construction,"clerical, sales and services workers",-
+2005-Q2,construction,"production and transport operators, cleaners and labourers",400
+2005-Q2,services,total,11600
+2005-Q2,services,"professional, managers, executive and technicians",4200
+2005-Q2,services,"clerical, sales and services workers",4900
+2005-Q2,services,"production and transport operators, cleaners and labourers",2500
+2005-Q2,others,total,300
+2005-Q2,others,"professional, managers, executive and technicians",100
+2005-Q2,others,"clerical, sales and services workers",-
+2005-Q2,others,"production and transport operators, cleaners and labourers",200
+2005-Q3,total,total,20100
+2005-Q3,total,"professional, managers, executive and technicians",7500
+2005-Q3,total,"clerical, sales and services workers",5800
+2005-Q3,total,"production and transport operators, cleaners and labourers",6800
+2005-Q3,manufacturing,total,6000
+2005-Q3,manufacturing,"professional, managers, executive and technicians",2500
+2005-Q3,manufacturing,"clerical, sales and services workers",300
+2005-Q3,manufacturing,"production and transport operators, cleaners and labourers",3200
+2005-Q3,construction,total,800
+2005-Q3,construction,"professional, managers, executive and technicians",300
+2005-Q3,construction,"clerical, sales and services workers",-
+2005-Q3,construction,"production and transport operators, cleaners and labourers",500
+2005-Q3,services,total,13000
+2005-Q3,services,"professional, managers, executive and technicians",4600
+2005-Q3,services,"clerical, sales and services workers",5400
+2005-Q3,services,"production and transport operators, cleaners and labourers",3000
+2005-Q3,others,total,300
+2005-Q3,others,"professional, managers, executive and technicians",100
+2005-Q3,others,"clerical, sales and services workers",-
+2005-Q3,others,"production and transport operators, cleaners and labourers",200
+2005-Q4,total,total,19800
+2005-Q4,total,"professional, managers, executive and technicians",8100
+2005-Q4,total,"clerical, sales and services workers",5400
+2005-Q4,total,"production and transport operators, cleaners and labourers",6300
+2005-Q4,manufacturing,total,6500
+2005-Q4,manufacturing,"professional, managers, executive and technicians",3000
+2005-Q4,manufacturing,"clerical, sales and services workers",500
+2005-Q4,manufacturing,"production and transport operators, cleaners and labourers",3000
+2005-Q4,construction,total,1000
+2005-Q4,construction,"professional, managers, executive and technicians",300
+2005-Q4,construction,"clerical, sales and services workers",100
+2005-Q4,construction,"production and transport operators, cleaners and labourers",600
+2005-Q4,services,total,12200
+2005-Q4,services,"professional, managers, executive and technicians",4700
+2005-Q4,services,"clerical, sales and services workers",4800
+2005-Q4,services,"production and transport operators, cleaners and labourers",2600
+2005-Q4,others,total,200
+2005-Q4,others,"professional, managers, executive and technicians",100
+2005-Q4,others,"clerical, sales and services workers",-
+2005-Q4,others,"production and transport operators, cleaners and labourers",100
+2006-Q1,total,total,26100
+2006-Q1,total,"professional, managers, executive and technicians",11800
+2006-Q1,total,"clerical, sales and services workers",7100
+2006-Q1,total,"production and transport operators, cleaners and labourers",7200
+2006-Q1,manufacturing,total,7300
+2006-Q1,manufacturing,"professional, managers, executive and technicians",2900
+2006-Q1,manufacturing,"clerical, sales and services workers",700
+2006-Q1,manufacturing,"production and transport operators, cleaners and labourers",3700
+2006-Q1,construction,total,700
+2006-Q1,construction,"professional, managers, executive and technicians",300
+2006-Q1,construction,"clerical, sales and services workers",100
+2006-Q1,construction,"production and transport operators, cleaners and labourers",300
+2006-Q1,services,total,17700
+2006-Q1,services,"professional, managers, executive and technicians",8300
+2011-Q2,total,total,55900
+2006-Q1,services,"clerical, sales and services workers",6200
+2006-Q1,services,"production and transport operators, cleaners and labourers",3200
+2006-Q1,others,total,300
+2006-Q1,others,"professional, managers, executive and technicians",200
+2006-Q1,others,"clerical, sales and services workers",100
+2006-Q1,others,"production and transport operators, cleaners and labourers",-
+2006-Q2,total,total,33000
+2006-Q2,total,"professional, managers, executive and technicians",14700
+2006-Q2,total,"clerical, sales and services workers",8300
+2006-Q2,total,"production and transport operators, cleaners and labourers",10000
+2006-Q2,manufacturing,total,9300
+2006-Q2,manufacturing,"professional, managers, executive and technicians",3400
+2006-Q2,manufacturing,"clerical, sales and services workers",700
+2006-Q2,manufacturing,"production and transport operators, cleaners and labourers",5100
+2006-Q2,construction,total,2200
+2006-Q2,construction,"professional, managers, executive and technicians",800
+2006-Q2,construction,"clerical, sales and services workers",100
+2006-Q2,construction,"production and transport operators, cleaners and labourers",1300
+2006-Q2,services,total,21100
+2006-Q2,services,"professional, managers, executive and technicians",10100
+2006-Q2,services,"clerical, sales and services workers",7400
+2006-Q2,services,"production and transport operators, cleaners and labourers",3600
+2006-Q2,others,total,500
+2006-Q2,others,"professional, managers, executive and technicians",400
+2006-Q2,others,"clerical, sales and services workers",-
+2006-Q2,others,"production and transport operators, cleaners and labourers",100
+2006-Q3,total,total,32200
+2006-Q3,total,"professional, managers, executive and technicians",13700
+2006-Q3,total,"clerical, sales and services workers",8300
+2006-Q3,total,"production and transport operators, cleaners and labourers",10200
+2006-Q3,manufacturing,total,8600
+2006-Q3,manufacturing,"professional, managers, executive and technicians",3100
+2006-Q3,manufacturing,"clerical, sales and services workers",400
+2006-Q3,manufacturing,"production and transport operators, cleaners and labourers",5100
+2006-Q3,construction,total,1400
+2006-Q3,construction,"professional, managers, executive and technicians",400
+2006-Q3,construction,"clerical, sales and services workers",100
+2006-Q3,construction,"production and transport operators, cleaners and labourers",900
+2006-Q3,services,total,22000
+2006-Q3,services,"professional, managers, executive and technicians",9900
+2006-Q3,services,"clerical, sales and services workers",7900
+2006-Q3,services,"production and transport operators, cleaners and labourers",4200
+2006-Q3,others,total,300
+2006-Q3,others,"professional, managers, executive and technicians",200
+2006-Q3,others,"clerical, sales and services workers",-
+2006-Q3,others,"production and transport operators, cleaners and labourers",100
+2006-Q4,total,total,33300
+2006-Q4,total,"professional, managers, executive and technicians",15100
+2006-Q4,total,"clerical, sales and services workers",8700
+2006-Q4,total,"production and transport operators, cleaners and labourers",9600
+2006-Q4,manufacturing,total,8000
+2006-Q4,manufacturing,"professional, managers, executive and technicians",3000
+2006-Q4,manufacturing,"clerical, sales and services workers",600
+2006-Q4,manufacturing,"production and transport operators, cleaners and labourers",4400
+2006-Q4,construction,total,1900
+2006-Q4,construction,"professional, managers, executive and technicians",500
+2006-Q4,construction,"clerical, sales and services workers",100
+2006-Q4,construction,"production and transport operators, cleaners and labourers",1400
+2006-Q4,services,total,23300
+2006-Q4,services,"professional, managers, executive and technicians",11500
+2006-Q4,services,"clerical, sales and services workers",8000
+2006-Q4,services,"production and transport operators, cleaners and labourers",3800
+2006-Q4,others,total,200
+2006-Q4,others,"professional, managers, executive and technicians",100
+2006-Q4,others,"clerical, sales and services workers",-
+2006-Q4,others,"production and transport operators, cleaners and labourers",100
+2007-Q1,total,total,35700
+2007-Q1,total,"professional, managers, executive and technicians",16000
+2007-Q1,total,"clerical, sales and services workers",9200
+2007-Q1,total,"production and transport operators, cleaners and labourers",10600
+2007-Q1,manufacturing,total,9000
+2007-Q1,manufacturing,"professional, managers, executive and technicians",3300
+2007-Q1,manufacturing,"clerical, sales and services workers",600
+2007-Q1,manufacturing,"production and transport operators, cleaners and labourers",5100
+2007-Q1,construction,total,1800
+2007-Q1,construction,"professional, managers, executive and technicians",400
+2007-Q1,construction,"clerical, sales and services workers",200
+2007-Q1,construction,"production and transport operators, cleaners and labourers",1200
+2007-Q1,services,total,24600
+2007-Q1,services,"professional, managers, executive and technicians",12100
+2007-Q1,services,"clerical, sales and services workers",8400
+2018-Q2,construction,total,1900
+2007-Q1,services,"production and transport operators, cleaners and labourers",4100
+2007-Q1,others,total,200
+2007-Q1,others,"professional, managers, executive and technicians",100
+2007-Q1,others,"clerical, sales and services workers",-
+2007-Q1,others,"production and transport operators, cleaners and labourers",-
+2007-Q2,total,total,39200
+2007-Q2,total,"professional, managers, executive and technicians",18500
+2007-Q2,total,"clerical, sales and services workers",10200
+2007-Q2,total,"production and transport operators, cleaners and labourers",10500
+2007-Q2,manufacturing,total,8400
+2007-Q2,manufacturing,"professional, managers, executive and technicians",3400
+2007-Q2,manufacturing,"clerical, sales and services workers",700
+2007-Q2,manufacturing,"production and transport operators, cleaners and labourers",4400
+2007-Q2,construction,total,2400
+2007-Q2,construction,"professional, managers, executive and technicians",700
+2007-Q2,construction,"clerical, sales and services workers",200
+2007-Q2,construction,"production and transport operators, cleaners and labourers",1600
+2007-Q2,services,total,27700
+2007-Q2,services,"professional, managers, executive and technicians",13800
+2007-Q2,services,"clerical, sales and services workers",9300
+2007-Q2,services,"production and transport operators, cleaners and labourers",4600
+2007-Q2,others,total,600
+2007-Q2,others,"professional, managers, executive and technicians",600
+2007-Q2,others,"clerical, sales and services workers",-
+2007-Q2,others,"production and transport operators, cleaners and labourers",-
+2007-Q3,total,total,38800
+2007-Q3,total,"professional, managers, executive and technicians",17600
+2007-Q3,total,"clerical, sales and services workers",10200
+2007-Q3,total,"production and transport operators, cleaners and labourers",11000
+2007-Q3,manufacturing,total,7900
+2007-Q3,manufacturing,"professional, managers, executive and technicians",3100
+2007-Q3,manufacturing,"clerical, sales and services workers",500
+2007-Q3,manufacturing,"production and transport operators, cleaners and labourers",4300
+2007-Q3,construction,total,2600
+2007-Q3,construction,"professional, managers, executive and technicians",700
+2007-Q3,construction,"clerical, sales and services workers",100
+2007-Q3,construction,"production and transport operators, cleaners and labourers",1700
+2007-Q3,services,total,27700
+2007-Q3,services,"professional, managers, executive and technicians",13300
+2007-Q3,services,"clerical, sales and services workers",9500
+2007-Q3,services,"production and transport operators, cleaners and labourers",4900
+2007-Q3,others,total,500
+2007-Q3,others,"professional, managers, executive and technicians",500
+2007-Q3,others,"clerical, sales and services workers",-
+2007-Q3,others,"production and transport operators, cleaners and labourers",100
+2007-Q4,total,total,40800
+2007-Q4,total,"professional, managers, executive and technicians",17700
+2007-Q4,total,"clerical, sales and services workers",10400
+2007-Q4,total,"production and transport operators, cleaners and labourers",12600
+2007-Q4,manufacturing,total,8800
+2007-Q4,manufacturing,"professional, managers, executive and technicians",3300
+2007-Q4,manufacturing,"clerical, sales and services workers",700
+2007-Q4,manufacturing,"production and transport operators, cleaners and labourers",4900
+2007-Q4,construction,total,3000
+2007-Q4,construction,"professional, managers, executive and technicians",700
+2007-Q4,construction,"clerical, sales and services workers",200
+2007-Q4,construction,"production and transport operators, cleaners and labourers",2100
+2007-Q4,services,total,28400
+2007-Q4,services,"professional, managers, executive and technicians",13200
+2007-Q4,services,"clerical, sales and services workers",9500
+2007-Q4,services,"production and transport operators, cleaners and labourers",5700
+2007-Q4,others,total,600
+2007-Q4,others,"professional, managers, executive and technicians",500
+2007-Q4,others,"clerical, sales and services workers",-
+2007-Q4,others,"production and transport operators, cleaners and labourers",-
+2008-Q1,total,total,40900
+2008-Q1,total,"professional, managers, executive and technicians",18900
+2008-Q1,total,"clerical, sales and services workers",10400
+2008-Q1,total,"production and transport operators, cleaners and labourers",11700
+2008-Q1,manufacturing,total,8300
+2008-Q1,manufacturing,"professional, managers, executive and technicians",3400
+2008-Q1,manufacturing,"clerical, sales and services workers",700
+2008-Q1,manufacturing,"production and transport operators, cleaners and labourers",4200
+2008-Q1,construction,total,3400
+2008-Q1,construction,"professional, managers, executive and technicians",1000
+2008-Q1,construction,"clerical, sales and services workers",300
+2008-Q1,construction,"production and transport operators, cleaners and labourers",2100
+2008-Q1,services,total,28800
+2008-Q1,services,"professional, managers, executive and technicians",14000
+2008-Q1,services,"clerical, sales and services workers",9400
+2008-Q1,services,"production and transport operators, cleaners and labourers",5400
+2008-Q1,others,"professional, managers, executive and technicians",400
+2008-Q1,others,"clerical, sales and services workers",-
+2008-Q1,others,"production and transport operators, cleaners and labourers",-
+2008-Q2,total,total,42300
+2008-Q2,total,"professional, managers, executive and technicians",20200
+2008-Q2,total,"clerical, sales and services workers",10900
+2008-Q2,total,"production and transport operators, cleaners and labourers",11200
+2008-Q2,manufacturing,total,7700
+2008-Q2,manufacturing,"professional, managers, executive and technicians",3500
+2008-Q2,manufacturing,"clerical, sales and services workers",900
+2008-Q2,manufacturing,"production and transport operators, cleaners and labourers",3300
+2008-Q2,construction,total,3600
+2008-Q2,construction,"professional, managers, executive and technicians",1000
+2008-Q2,construction,"clerical, sales and services workers",300
+2008-Q2,construction,"production and transport operators, cleaners and labourers",2400
+2008-Q2,services,total,30300
+2008-Q2,services,"professional, managers, executive and technicians",15200
+2008-Q2,services,"clerical, sales and services workers",9700
+2008-Q2,services,"production and transport operators, cleaners and labourers",5400
+2008-Q2,others,total,700
+2008-Q2,others,"professional, managers, executive and technicians",500
+2008-Q2,others,"clerical, sales and services workers",-
+2008-Q2,others,"production and transport operators, cleaners and labourers",200
+2008-Q3,total,total,40400
+2008-Q3,total,"professional, managers, executive and technicians",18600
+2008-Q3,total,"clerical, sales and services workers",10200
+2008-Q3,total,"production and transport operators, cleaners and labourers",11700
+2008-Q3,manufacturing,total,7300
+2008-Q3,manufacturing,"professional, managers, executive and technicians",2800
+2008-Q3,manufacturing,"clerical, sales and services workers",400
+2008-Q3,manufacturing,"production and transport operators, cleaners and labourers",4100
+2008-Q3,construction,total,3600
+2008-Q3,construction,"professional, managers, executive and technicians",800
+2008-Q3,construction,"clerical, sales and services workers",100
+2008-Q3,construction,"production and transport operators, cleaners and labourers",2700
+2008-Q3,services,total,29200
+2008-Q3,services,"professional, managers, executive and technicians",14900
+2008-Q3,services,"clerical, sales and services workers",9600
+2008-Q3,services,"production and transport operators, cleaners and labourers",4700
+2008-Q3,others,total,400
+2008-Q3,others,"professional, managers, executive and technicians",200
+2008-Q3,others,"clerical, sales and services workers",-
+2008-Q3,others,"production and transport operators, cleaners and labourers",200
+2008-Q4,total,total,27400
+2008-Q4,total,"professional, managers, executive and technicians",13800
+2008-Q4,total,"clerical, sales and services workers",8200
+2008-Q4,total,"production and transport operators, cleaners and labourers",5400
+2008-Q4,manufacturing,total,2900
+2008-Q4,manufacturing,"professional, managers, executive and technicians",1200
+2008-Q4,manufacturing,"clerical, sales and services workers",300
+2008-Q4,manufacturing,"production and transport operators, cleaners and labourers",1400
+2008-Q4,construction,total,1300
+2008-Q4,construction,"professional, managers, executive and technicians",400
+2008-Q4,construction,"clerical, sales and services workers",100
+2008-Q4,construction,"production and transport operators, cleaners and labourers",900
+2008-Q4,services,total,22800
+2008-Q4,services,"professional, managers, executive and technicians",12000
+2008-Q4,services,"clerical, sales and services workers",7800
+2008-Q4,services,"production and transport operators, cleaners and labourers",3000
+2008-Q4,others,total,300
+2008-Q4,others,"professional, managers, executive and technicians",200
+2008-Q4,others,"clerical, sales and services workers",-
+2008-Q4,others,"production and transport operators, cleaners and labourers",200
+2009-Q1,total,total,22900
+2009-Q1,total,"professional, managers, executive and technicians",12500
+2009-Q1,total,"clerical, sales and services workers",6100
+2009-Q1,total,"production and transport operators, cleaners and labourers",4300
+2009-Q1,manufacturing,total,2700
+2009-Q1,manufacturing,"professional, managers, executive and technicians",1100
+2009-Q1,manufacturing,"clerical, sales and services workers",300
+2009-Q1,manufacturing,"production and transport operators, cleaners and labourers",1200
+2009-Q1,construction,total,1100
+2009-Q1,construction,"professional, managers, executive and technicians",300
+2009-Q1,construction,"clerical, sales and services workers",100
+2009-Q1,construction,"production and transport operators, cleaners and labourers",700
+2009-Q1,services,total,18900
+2009-Q1,services,"professional, managers, executive and technicians",10800
+2009-Q1,services,"clerical, sales and services workers",5700
+2009-Q1,services,"production and transport operators, cleaners and labourers",2400
+2009-Q1,others,total,200
+2009-Q1,others,"professional, managers, executive and technicians",200
+2009-Q1,others,"clerical, sales and services workers",-
+2009-Q1,others,"production and transport operators, cleaners and labourers",-
+2009-Q2,total,total,26100
+2009-Q2,total,"professional, managers, executive and technicians",14400
+2009-Q2,total,"clerical, sales and services workers",6300
+2009-Q2,total,"production and transport operators, cleaners and labourers",5400
+2009-Q2,manufacturing,total,4300
+2009-Q2,manufacturing,"professional, managers, executive and technicians",1500
+2009-Q2,manufacturing,"clerical, sales and services workers",500
+2009-Q2,manufacturing,"production and transport operators, cleaners and labourers",2300
+2009-Q2,construction,total,1400
+2009-Q2,construction,"professional, managers, executive and technicians",400
+2009-Q2,construction,"clerical, sales and services workers",100
+2009-Q2,construction,"production and transport operators, cleaners and labourers",900
+2009-Q2,services,total,20200
+2009-Q2,services,"professional, managers, executive and technicians",12300
+2009-Q2,services,"clerical, sales and services workers",5700
+2009-Q2,services,"production and transport operators, cleaners and labourers",2200
+2009-Q2,others,total,200
+2009-Q2,others,"professional, managers, executive and technicians",200
+2009-Q2,others,"clerical, sales and services workers",-
+2009-Q2,others,"production and transport operators, cleaners and labourers",-
+2009-Q3,total,total,36900
+2009-Q3,total,"professional, managers, executive and technicians",16300
+2009-Q3,total,"clerical, sales and services workers",10200
+2009-Q3,total,"production and transport operators, cleaners and labourers",10500
+2009-Q3,manufacturing,total,6000
+2009-Q3,manufacturing,"professional, managers, executive and technicians",1700
+2009-Q3,manufacturing,"clerical, sales and services workers",400
+2009-Q3,manufacturing,"production and transport operators, cleaners and labourers",3800
+2009-Q3,construction,total,3000
+2009-Q3,construction,"professional, managers, executive and technicians",700
+2009-Q3,construction,"clerical, sales and services workers",100
+2009-Q3,construction,"production and transport operators, cleaners and labourers",2200
+2009-Q3,services,total,27500
+2009-Q3,services,"professional, managers, executive and technicians",13600
+2009-Q3,services,"clerical, sales and services workers",9600
+2009-Q3,services,"production and transport operators, cleaners and labourers",4200
+2009-Q3,others,total,500
+2009-Q3,others,"professional, managers, executive and technicians",200
+2009-Q3,others,"clerical, sales and services workers",-
+2009-Q3,others,"production and transport operators, cleaners and labourers",300
+2009-Q4,total,total,35800
+2009-Q4,total,"professional, managers, executive and technicians",17200
+2009-Q4,total,"clerical, sales and services workers",9500
+2009-Q4,total,"production and transport operators, cleaners and labourers",9000
+2009-Q4,manufacturing,total,6100
+2009-Q4,manufacturing,"professional, managers, executive and technicians",1900
+2009-Q4,manufacturing,"clerical, sales and services workers",400
+2009-Q4,manufacturing,"production and transport operators, cleaners and labourers",3700
+2009-Q4,construction,total,2000
+2009-Q4,construction,"professional, managers, executive and technicians",800
+2009-Q4,construction,"clerical, sales and services workers",200
+2009-Q4,construction,"production and transport operators, cleaners and labourers",1100
+2009-Q4,services,total,27300
+2009-Q4,services,"professional, managers, executive and technicians",14300
+2009-Q4,services,"clerical, sales and services workers",8900
+2009-Q4,services,"production and transport operators, cleaners and labourers",4000
+2009-Q4,others,total,400
+2009-Q4,others,"professional, managers, executive and technicians",200
+2009-Q4,others,"clerical, sales and services workers",-
+2009-Q4,others,"production and transport operators, cleaners and labourers",200
+2010-Q1,total,total,37300
+2010-Q1,total,"professional, managers, executive and technicians",17200
+2010-Q1,total,"clerical, sales and services workers",9900
+2010-Q1,total,"production and transport operators, cleaners and labourers",10200
+2010-Q1,manufacturing,total,7800
+2010-Q1,manufacturing,"professional, managers, executive and technicians",2600
+2010-Q1,manufacturing,"clerical, sales and services workers",700
+2010-Q1,manufacturing,"production and transport operators, cleaners and labourers",4600
+2010-Q1,construction,total,2100
+2010-Q1,construction,"professional, managers, executive and technicians",700
+2010-Q1,construction,"clerical, sales and services workers",200
+2010-Q1,construction,"production and transport operators, cleaners and labourers",1200
+2010-Q1,services,total,27000
+2010-Q1,services,"professional, managers, executive and technicians",13800
+2010-Q1,services,"clerical, sales and services workers",9100
+2010-Q1,services,"production and transport operators, cleaners and labourers",4200
+2010-Q1,others,total,400
+2010-Q1,others,"professional, managers, executive and technicians",200
+2010-Q1,others,"clerical, sales and services workers",-
+2021-Q2,services,total,66200
+2010-Q1,others,"production and transport operators, cleaners and labourers",200
+2010-Q2,total,total,45100
+2010-Q2,total,"professional, managers, executive and technicians",20900
+2010-Q2,total,"clerical, sales and services workers",12000
+2010-Q2,total,"production and transport operators, cleaners and labourers",12200
+2010-Q2,manufacturing,total,8900
+2010-Q2,manufacturing,"professional, managers, executive and technicians",3400
+2010-Q2,manufacturing,"clerical, sales and services workers",700
+2010-Q2,manufacturing,"production and transport operators, cleaners and labourers",4800
+2010-Q2,construction,total,2000
+2010-Q2,construction,"professional, managers, executive and technicians",700
+2010-Q2,construction,"clerical, sales and services workers",200
+2010-Q2,construction,"production and transport operators, cleaners and labourers",1100
+2010-Q2,services,total,33700
+2010-Q2,services,"professional, managers, executive and technicians",16500
+2010-Q2,services,"clerical, sales and services workers",11100
+2010-Q2,services,"production and transport operators, cleaners and labourers",6100
+2010-Q2,others,total,400
+2010-Q2,others,"professional, managers, executive and technicians",300
+2010-Q2,others,"clerical, sales and services workers",-
+2010-Q2,others,"production and transport operators, cleaners and labourers",100
+2010-Q3,total,total,50200
+2010-Q3,total,"professional, managers, executive and technicians",21800
+2010-Q3,total,"clerical, sales and services workers",14700
+2010-Q3,total,"production and transport operators, cleaners and labourers",13700
+2010-Q3,manufacturing,total,8500
+2010-Q3,manufacturing,"professional, managers, executive and technicians",3400
+2010-Q3,manufacturing,"clerical, sales and services workers",600
+2010-Q3,manufacturing,"production and transport operators, cleaners and labourers",4500
+2010-Q3,construction,total,3400
+2010-Q3,construction,"professional, managers, executive and technicians",800
+2010-Q3,construction,"clerical, sales and services workers",200
+2010-Q3,construction,"production and transport operators, cleaners and labourers",2400
+2010-Q3,services,total,37900
+2010-Q3,services,"professional, managers, executive and technicians",17200
+2010-Q3,services,"clerical, sales and services workers",13900
+2010-Q3,services,"production and transport operators, cleaners and labourers",6800
+2010-Q3,others,total,400
+2010-Q3,others,"professional, managers, executive and technicians",300
+2010-Q3,others,"clerical, sales and services workers",-
+2010-Q3,others,"production and transport operators, cleaners and labourers",100
+2010-Q4,total,total,44100
+2010-Q4,total,"professional, managers, executive and technicians",20300
+2010-Q4,total,"clerical, sales and services workers",11500
+2010-Q4,total,"production and transport operators, cleaners and labourers",12300
+2010-Q4,manufacturing,total,7400
+2010-Q4,manufacturing,"professional, managers, executive and technicians",3000
+2010-Q4,manufacturing,"clerical, sales and services workers",600
+2010-Q4,manufacturing,"production and transport operators, cleaners and labourers",3800
+2010-Q4,construction,total,3400
+2010-Q4,construction,"professional, managers, executive and technicians",700
+2010-Q4,construction,"clerical, sales and services workers",300
+2010-Q4,construction,"production and transport operators, cleaners and labourers",2400
+2010-Q4,services,total,32800
+2010-Q4,services,"professional, managers, executive and technicians",16200
+2010-Q4,services,"clerical, sales and services workers",10600
+2010-Q4,services,"production and transport operators, cleaners and labourers",6000
+2010-Q4,others,total,400
+2010-Q4,others,"professional, managers, executive and technicians",300
+2010-Q4,others,"clerical, sales and services workers",-
+2010-Q4,others,"production and transport operators, cleaners and labourers",100
+2011-Q1,total,total,49300
+2011-Q1,total,"professional, managers, executive and technicians",22400
+2011-Q1,total,"clerical, sales and services workers",12900
+2011-Q1,total,"production and transport operators, cleaners and labourers",14100
+2011-Q1,manufacturing,total,9200
+2011-Q1,manufacturing,"professional, managers, executive and technicians",3800
+2011-Q1,manufacturing,"clerical, sales and services workers",700
+2011-Q1,manufacturing,"production and transport operators, cleaners and labourers",4700
+2011-Q1,construction,total,3700
+2011-Q1,construction,"professional, managers, executive and technicians",400
+2011-Q1,construction,"clerical, sales and services workers",200
+2011-Q1,construction,"production and transport operators, cleaners and labourers",3100
+2011-Q1,services,total,36000
+2011-Q1,services,"professional, managers, executive and technicians",17900
+2011-Q1,services,"clerical, sales and services workers",11900
+2011-Q1,services,"production and transport operators, cleaners and labourers",6200
+2011-Q1,others,total,400
+2011-Q1,others,"professional, managers, executive and technicians",300
+2011-Q1,others,"clerical, sales and services workers",-
+2011-Q1,others,"production and transport operators, cleaners and labourers",100
+2011-Q2,total,"professional, managers, executive and technicians",25600
+2011-Q2,total,"clerical, sales and services workers",15000
+2011-Q2,total,"production and transport operators, cleaners and labourers",15300
+2011-Q2,manufacturing,total,10300
+2011-Q2,manufacturing,"professional, managers, executive and technicians",3900
+2011-Q2,manufacturing,"clerical, sales and services workers",1100
+2011-Q2,manufacturing,"production and transport operators, cleaners and labourers",5300
+2011-Q2,construction,total,3700
+2011-Q2,construction,"professional, managers, executive and technicians",600
+2011-Q2,construction,"clerical, sales and services workers",200
+2011-Q2,construction,"production and transport operators, cleaners and labourers",2900
+2011-Q2,services,total,41200
+2011-Q2,services,"professional, managers, executive and technicians",20700
+2011-Q2,services,"clerical, sales and services workers",13700
+2011-Q2,services,"production and transport operators, cleaners and labourers",6900
+2011-Q2,others,total,700
+2011-Q2,others,"professional, managers, executive and technicians",400
+2011-Q2,others,"clerical, sales and services workers",-
+2011-Q2,others,"production and transport operators, cleaners and labourers",200
+2011-Q3,total,total,54000
+2011-Q3,total,"professional, managers, executive and technicians",22000
+2011-Q3,total,"clerical, sales and services workers",15800
+2011-Q3,total,"production and transport operators, cleaners and labourers",16100
+2011-Q3,manufacturing,total,8500
+2011-Q3,manufacturing,"professional, managers, executive and technicians",2400
+2011-Q3,manufacturing,"clerical, sales and services workers",700
+2011-Q3,manufacturing,"production and transport operators, cleaners and labourers",5300
+2011-Q3,construction,total,3800
+2011-Q3,construction,"professional, managers, executive and technicians",900
+2011-Q3,construction,"clerical, sales and services workers",200
+2011-Q3,construction,"production and transport operators, cleaners and labourers",2600
+2011-Q3,services,total,41100
+2011-Q3,services,"professional, managers, executive and technicians",18300
+2011-Q3,services,"clerical, sales and services workers",14900
+2011-Q3,services,"production and transport operators, cleaners and labourers",8000
+2011-Q3,others,total,600
+2011-Q3,others,"professional, managers, executive and technicians",400
+2011-Q3,others,"clerical, sales and services workers",-
+2011-Q3,others,"production and transport operators, cleaners and labourers",200
+2011-Q4,total,total,51700
+2011-Q4,total,"professional, managers, executive and technicians",21400
+2011-Q4,total,"clerical, sales and services workers",16200
+2011-Q4,total,"production and transport operators, cleaners and labourers",14100
+2011-Q4,manufacturing,total,7800
+2011-Q4,manufacturing,"professional, managers, executive and technicians",3000
+2011-Q4,manufacturing,"clerical, sales and services workers",900
+2011-Q4,manufacturing,"production and transport operators, cleaners and labourers",3900
+2011-Q4,construction,total,3400
+2011-Q4,construction,"professional, managers, executive and technicians",600
+2011-Q4,construction,"clerical, sales and services workers",300
+2011-Q4,construction,"production and transport operators, cleaners and labourers",2600
+2011-Q4,services,total,39900
+2011-Q4,services,"professional, managers, executive and technicians",17200
+2011-Q4,services,"clerical, sales and services workers",15100
+2011-Q4,services,"production and transport operators, cleaners and labourers",7600
+2011-Q4,others,total,600
+2011-Q4,others,"professional, managers, executive and technicians",500
+2011-Q4,others,"clerical, sales and services workers",-
+2011-Q4,others,"production and transport operators, cleaners and labourers",100
+2012-Q1,total,total,46800
+2012-Q1,total,"professional, managers, executive and technicians",20600
+2012-Q1,total,"clerical, sales and services workers",13800
+2012-Q1,total,"production and transport operators, cleaners and labourers",12400
+2012-Q1,manufacturing,total,7600
+2012-Q1,manufacturing,"professional, managers, executive and technicians",3100
+2012-Q1,manufacturing,"clerical, sales and services workers",500
+2012-Q1,manufacturing,"production and transport operators, cleaners and labourers",4000
+2012-Q1,construction,total,3300
+2012-Q1,construction,"professional, managers, executive and technicians",700
+2012-Q1,construction,"clerical, sales and services workers",100
+2012-Q1,construction,"production and transport operators, cleaners and labourers",2500
+2012-Q1,services,total,35300
+2012-Q1,services,"professional, managers, executive and technicians",16500
+2012-Q1,services,"clerical, sales and services workers",13100
+2012-Q1,services,"production and transport operators, cleaners and labourers",5800
+2012-Q1,others,total,500
+2012-Q1,others,"professional, managers, executive and technicians",400
+2012-Q1,others,"clerical, sales and services workers",-
+2012-Q1,others,"production and transport operators, cleaners and labourers",100
+2012-Q2,total,total,47300
+2012-Q2,total,"professional, managers, executive and technicians",20000
+2012-Q2,total,"clerical, sales and services workers",13300
+2012-Q2,total,"production and transport operators, cleaners and labourers",14000
+2012-Q2,manufacturing,total,7700
+2012-Q2,manufacturing,"professional, managers, executive and technicians",3000
+2012-Q2,manufacturing,"clerical, sales and services workers",500
+2012-Q2,manufacturing,"production and transport operators, cleaners and labourers",4200
+2012-Q2,construction,total,3400
+2012-Q2,construction,"professional, managers, executive and technicians",700
+2012-Q2,construction,"clerical, sales and services workers",200
+2012-Q2,construction,"production and transport operators, cleaners and labourers",2400
+2012-Q2,services,total,35400
+2012-Q2,services,"professional, managers, executive and technicians",15800
+2012-Q2,services,"clerical, sales and services workers",12500
+2012-Q2,services,"production and transport operators, cleaners and labourers",7100
+2012-Q2,others,total,800
+2012-Q2,others,"professional, managers, executive and technicians",500
+2012-Q2,others,"clerical, sales and services workers",-
+2012-Q2,others,"production and transport operators, cleaners and labourers",300
+2012-Q3,total,total,56400
+2012-Q3,total,"professional, managers, executive and technicians",22700
+2012-Q3,total,"clerical, sales and services workers",17600
+2012-Q3,total,"production and transport operators, cleaners and labourers",16100
+2012-Q3,manufacturing,total,7100
+2012-Q3,manufacturing,"professional, managers, executive and technicians",2400
+2012-Q3,manufacturing,"clerical, sales and services workers",600
+2012-Q3,manufacturing,"production and transport operators, cleaners and labourers",4100
+2012-Q3,construction,total,4100
+2012-Q3,construction,"professional, managers, executive and technicians",1000
+2012-Q3,construction,"clerical, sales and services workers",200
+2012-Q3,construction,"production and transport operators, cleaners and labourers",3000
+2012-Q3,services,total,44200
+2012-Q3,services,"professional, managers, executive and technicians",18600
+2012-Q3,services,"clerical, sales and services workers",16800
+2012-Q3,services,"production and transport operators, cleaners and labourers",8800
+2012-Q3,others,total,1000
+2012-Q3,others,"professional, managers, executive and technicians",700
+2012-Q3,others,"clerical, sales and services workers",100
+2012-Q3,others,"production and transport operators, cleaners and labourers",200
+2012-Q4,total,total,43900
+2012-Q4,total,"professional, managers, executive and technicians",18400
+2012-Q4,total,"clerical, sales and services workers",13900
+2012-Q4,total,"production and transport operators, cleaners and labourers",11600
+2012-Q4,manufacturing,total,6000
+2012-Q4,manufacturing,"professional, managers, executive and technicians",2100
+2012-Q4,manufacturing,"clerical, sales and services workers",600
+2012-Q4,manufacturing,"production and transport operators, cleaners and labourers",3300
+2012-Q4,construction,total,2700
+2012-Q4,construction,"professional, managers, executive and technicians",500
+2012-Q4,construction,"clerical, sales and services workers",200
+2012-Q4,construction,"production and transport operators, cleaners and labourers",1900
+2012-Q4,services,total,34300
+2012-Q4,services,"professional, managers, executive and technicians",15000
+2012-Q4,services,"clerical, sales and services workers",13000
+2012-Q4,services,"production and transport operators, cleaners and labourers",6200
+2012-Q4,others,total,900
+2012-Q4,others,"professional, managers, executive and technicians",700
+2012-Q4,others,"clerical, sales and services workers",-
+2012-Q4,others,"production and transport operators, cleaners and labourers",200
+2013-Q1,total,total,51100
+2013-Q1,total,"professional, managers, executive and technicians",21900
+2013-Q1,total,"clerical, sales and services workers",13700
+2013-Q1,total,"production and transport operators, cleaners and labourers",15500
+2013-Q1,manufacturing,total,7700
+2013-Q1,manufacturing,"professional, managers, executive and technicians",3100
+2013-Q1,manufacturing,"clerical, sales and services workers",600
+2013-Q1,manufacturing,"production and transport operators, cleaners and labourers",3900
+2013-Q1,construction,total,3800
+2013-Q1,construction,"professional, managers, executive and technicians",800
+2013-Q1,construction,"clerical, sales and services workers",300
+2013-Q1,construction,"production and transport operators, cleaners and labourers",2600
+2013-Q1,services,total,38800
+2013-Q1,services,"professional, managers, executive and technicians",17500
+2013-Q1,services,"clerical, sales and services workers",12500
+2013-Q1,services,"production and transport operators, cleaners and labourers",8800
+2013-Q1,others,total,800
+2013-Q1,others,"professional, managers, executive and technicians",500
+2013-Q1,others,"clerical, sales and services workers",200
+2013-Q1,others,"production and transport operators, cleaners and labourers",200
+2013-Q2,total,total,52100
+2013-Q2,total,"professional, managers, executive and technicians",23800
+2013-Q2,total,"clerical, sales and services workers",13300
+2013-Q2,total,"production and transport operators, cleaners and labourers",14900
+2013-Q2,manufacturing,total,7700
+2013-Q2,manufacturing,"professional, managers, executive and technicians",3200
+2013-Q2,manufacturing,"clerical, sales and services workers",600
+2013-Q2,manufacturing,"production and transport operators, cleaners and labourers",3900
+2013-Q2,construction,total,3700
+2013-Q2,construction,"professional, managers, executive and technicians",1000
+2013-Q2,construction,"clerical, sales and services workers",400
+2013-Q2,construction,"production and transport operators, cleaners and labourers",2300
+2013-Q2,services,total,40100
+2013-Q2,services,"professional, managers, executive and technicians",19200
+2013-Q2,services,"clerical, sales and services workers",12300
+2013-Q2,services,"production and transport operators, cleaners and labourers",8600
+2013-Q2,others,total,500
+2013-Q2,others,"professional, managers, executive and technicians",400
+2013-Q2,others,"clerical, sales and services workers",-
+2013-Q2,others,"production and transport operators, cleaners and labourers",100
+2013-Q3,total,total,61900
+2013-Q3,total,"professional, managers, executive and technicians",24300
+2013-Q3,total,"clerical, sales and services workers",20200
+2013-Q3,total,"production and transport operators, cleaners and labourers",17400
+2013-Q3,manufacturing,total,8200
+2013-Q3,manufacturing,"professional, managers, executive and technicians",3300
+2013-Q3,manufacturing,"clerical, sales and services workers",800
+2013-Q3,manufacturing,"production and transport operators, cleaners and labourers",4100
+2013-Q3,construction,total,4000
+2013-Q3,construction,"professional, managers, executive and technicians",1200
+2013-Q3,construction,"clerical, sales and services workers",200
+2013-Q3,construction,"production and transport operators, cleaners and labourers",2600
+2013-Q3,services,total,49000
+2013-Q3,services,"professional, managers, executive and technicians",19400
+2013-Q3,services,"clerical, sales and services workers",19100
+2013-Q3,services,"production and transport operators, cleaners and labourers",10500
+2013-Q3,others,total,700
+2013-Q3,others,"professional, managers, executive and technicians",400
+2013-Q3,others,"clerical, sales and services workers",-
+2013-Q3,others,"production and transport operators, cleaners and labourers",200
+2013-Q4,total,total,56500
+2013-Q4,total,"professional, managers, executive and technicians",24100
+2013-Q4,total,"clerical, sales and services workers",16500
+2013-Q4,total,"production and transport operators, cleaners and labourers",15900
+2013-Q4,manufacturing,total,7400
+2013-Q4,manufacturing,"professional, managers, executive and technicians",3100
+2013-Q4,manufacturing,"clerical, sales and services workers",500
+2013-Q4,manufacturing,"production and transport operators, cleaners and labourers",3800
+2013-Q4,construction,total,3900
+2013-Q4,construction,"professional, managers, executive and technicians",1200
+2013-Q4,construction,"clerical, sales and services workers",300
+2013-Q4,construction,"production and transport operators, cleaners and labourers",2500
+2013-Q4,services,total,44800
+2013-Q4,services,"professional, managers, executive and technicians",19600
+2013-Q4,services,"clerical, sales and services workers",15700
+2013-Q4,services,"production and transport operators, cleaners and labourers",9500
+2013-Q4,others,total,400
+2013-Q4,others,"professional, managers, executive and technicians",200
+2013-Q4,others,"clerical, sales and services workers",-
+2013-Q4,others,"production and transport operators, cleaners and labourers",200
+2014-Q1,total,total,60500
+2014-Q1,total,"professional, managers, executive and technicians",26400
+2014-Q1,total,"clerical, sales and services workers",17700
+2014-Q1,total,"production and transport operators, cleaners and labourers",16300
+2014-Q1,manufacturing,total,8200
+2014-Q1,manufacturing,"professional, managers, executive and technicians",3500
+2014-Q1,manufacturing,"clerical, sales and services workers",900
+2014-Q1,manufacturing,"production and transport operators, cleaners and labourers",3700
+2014-Q1,construction,total,3500
+2014-Q1,construction,"professional, managers, executive and technicians",1000
+2014-Q1,construction,"clerical, sales and services workers",100
+2014-Q1,construction,"production and transport operators, cleaners and labourers",2400
+2014-Q1,services,total,48400
+2014-Q1,services,"professional, managers, executive and technicians",21700
+2014-Q1,services,"clerical, sales and services workers",16700
+2014-Q1,services,"production and transport operators, cleaners and labourers",10100
+2014-Q1,others,total,400
+2014-Q1,others,"professional, managers, executive and technicians",200
+2014-Q1,others,"clerical, sales and services workers",-
+2014-Q1,others,"production and transport operators, cleaners and labourers",200
+2014-Q2,total,total,63900
+2014-Q2,total,"professional, managers, executive and technicians",29100
+2014-Q2,total,"clerical, sales and services workers",17800
+2014-Q2,total,"production and transport operators, cleaners and labourers",17000
+2014-Q2,manufacturing,total,8900
+2014-Q2,manufacturing,"professional, managers, executive and technicians",4200
+2014-Q2,manufacturing,"clerical, sales and services workers",700
+2014-Q2,manufacturing,"production and transport operators, cleaners and labourers",4000
+2014-Q2,construction,total,3500
+2014-Q2,construction,"professional, managers, executive and technicians",1200
+2014-Q2,construction,"clerical, sales and services workers",200
+2014-Q2,construction,"production and transport operators, cleaners and labourers",2100
+2014-Q2,services,total,50900
+2014-Q2,services,"professional, managers, executive and technicians",23400
+2014-Q2,services,"clerical, sales and services workers",16700
+2014-Q2,services,"production and transport operators, cleaners and labourers",10800
+2014-Q2,others,total,500
+2014-Q2,others,"professional, managers, executive and technicians",300
+2014-Q2,others,"clerical, sales and services workers",100
+2014-Q2,others,"production and transport operators, cleaners and labourers",200
+2014-Q3,total,total,67400
+2014-Q3,total,"professional, managers, executive and technicians",29300
+2014-Q3,total,"clerical, sales and services workers",20900
+2014-Q3,total,"production and transport operators, cleaners and labourers",17300
+2014-Q3,manufacturing,total,9200
+2014-Q3,manufacturing,"professional, managers, executive and technicians",3800
+2014-Q3,manufacturing,"clerical, sales and services workers",900
+2014-Q3,manufacturing,"production and transport operators, cleaners and labourers",4500
+2014-Q3,construction,total,3800
+2014-Q3,construction,"professional, managers, executive and technicians",1400
+2014-Q3,construction,"clerical, sales and services workers",200
+2014-Q3,construction,"production and transport operators, cleaners and labourers",2200
+2014-Q3,services,total,53700
+2014-Q3,services,"professional, managers, executive and technicians",23800
+2014-Q3,services,"clerical, sales and services workers",19700
+2014-Q3,services,"production and transport operators, cleaners and labourers",10300
+2014-Q3,others,total,600
+2014-Q3,others,"professional, managers, executive and technicians",300
+2014-Q3,others,"clerical, sales and services workers",-
+2014-Q3,others,"production and transport operators, cleaners and labourers",300
+2014-Q4,total,total,61200
+2014-Q4,total,"professional, managers, executive and technicians",28600
+2014-Q4,total,"clerical, sales and services workers",17300
+2014-Q4,total,"production and transport operators, cleaners and labourers",15300
+2014-Q4,manufacturing,total,7600
+2014-Q4,manufacturing,"professional, managers, executive and technicians",3200
+2014-Q4,manufacturing,"clerical, sales and services workers",800
+2014-Q4,manufacturing,"production and transport operators, cleaners and labourers",3600
+2014-Q4,construction,total,3600
+2014-Q4,construction,"professional, managers, executive and technicians",1000
+2014-Q4,construction,"clerical, sales and services workers",200
+2014-Q4,construction,"production and transport operators, cleaners and labourers",2400
+2014-Q4,services,total,49500
+2014-Q4,services,"professional, managers, executive and technicians",24100
+2014-Q4,services,"clerical, sales and services workers",16300
+2014-Q4,services,"production and transport operators, cleaners and labourers",9200
+2014-Q4,others,total,500
+2014-Q4,others,"professional, managers, executive and technicians",300
+2014-Q4,others,"clerical, sales and services workers",-
+2014-Q4,others,"production and transport operators, cleaners and labourers",200
+2015-Q1,total,total,63700
+2015-Q1,total,"professional, managers, executive and technicians",31100
+2015-Q1,total,"clerical, sales and services workers",17500
+2015-Q1,total,"production and transport operators, cleaners and labourers",15000
+2015-Q1,manufacturing,total,7800
+2015-Q1,manufacturing,"professional, managers, executive and technicians",3900
+2015-Q1,manufacturing,"clerical, sales and services workers",600
+2015-Q1,manufacturing,"production and transport operators, cleaners and labourers",3300
+2015-Q1,construction,total,3200
+2015-Q1,construction,"professional, managers, executive and technicians",1200
+2015-Q1,construction,"clerical, sales and services workers",200
+2015-Q1,construction,"production and transport operators, cleaners and labourers",1800
+2015-Q1,services,total,52300
+2015-Q1,services,"professional, managers, executive and technicians",25800
+2015-Q1,services,"clerical, sales and services workers",16700
+2015-Q1,services,"production and transport operators, cleaners and labourers",9800
+2015-Q1,others,total,400
+2015-Q1,others,"professional, managers, executive and technicians",300
+2015-Q1,others,"clerical, sales and services workers",-
+2015-Q1,others,"production and transport operators, cleaners and labourers",100
+2015-Q2,total,total,63000
+2015-Q2,total,"professional, managers, executive and technicians",32100
+2015-Q2,total,"clerical, sales and services workers",17400
+2015-Q2,total,"production and transport operators, cleaners and labourers",13500
+2015-Q2,manufacturing,total,6800
+2015-Q2,manufacturing,"professional, managers, executive and technicians",3500
+2015-Q2,manufacturing,"clerical, sales and services workers",600
+2015-Q2,manufacturing,"production and transport operators, cleaners and labourers",2800
+2015-Q2,construction,total,3300
+2015-Q2,construction,"professional, managers, executive and technicians",1000
+2015-Q2,construction,"clerical, sales and services workers",300
+2015-Q2,construction,"production and transport operators, cleaners and labourers",2100
+2015-Q2,services,total,52400
+2015-Q2,services,"professional, managers, executive and technicians",27400
+2015-Q2,services,"clerical, sales and services workers",16500
+2015-Q2,services,"production and transport operators, cleaners and labourers",8500
+2015-Q2,others,total,400
+2015-Q2,others,"professional, managers, executive and technicians",200
+2015-Q2,others,"clerical, sales and services workers",-
+2015-Q2,others,"production and transport operators, cleaners and labourers",100
+2015-Q3,total,total,60000
+2015-Q3,total,"professional, managers, executive and technicians",27200
+2015-Q3,total,"clerical, sales and services workers",17900
+2015-Q3,total,"production and transport operators, cleaners and labourers",14900
+2015-Q3,manufacturing,total,6800
+2015-Q3,manufacturing,"professional, managers, executive and technicians",2700
+2015-Q3,manufacturing,"clerical, sales and services workers",700
+2015-Q3,manufacturing,"production and transport operators, cleaners and labourers",3400
+2015-Q3,construction,total,3200
+2015-Q3,construction,"professional, managers, executive and technicians",1000
+2015-Q3,construction,"clerical, sales and services workers",200
+2015-Q3,construction,"production and transport operators, cleaners and labourers",2000
+2015-Q3,services,total,49200
+2015-Q3,services,"professional, managers, executive and technicians",23100
+2015-Q3,services,"clerical, sales and services workers",17000
+2015-Q3,services,"production and transport operators, cleaners and labourers",9100
+2015-Q3,others,total,700
+2015-Q3,others,"professional, managers, executive and technicians",400
+2015-Q3,others,"clerical, sales and services workers",-
+2015-Q3,others,"production and transport operators, cleaners and labourers",300
+2015-Q4,total,total,50600
+2015-Q4,total,"professional, managers, executive and technicians",23900
+2015-Q4,total,"clerical, sales and services workers",14600
+2015-Q4,total,"production and transport operators, cleaners and labourers",12100
+2015-Q4,manufacturing,total,6400
+2015-Q4,manufacturing,"professional, managers, executive and technicians",2900
+2015-Q4,manufacturing,"clerical, sales and services workers",600
+2015-Q4,manufacturing,"production and transport operators, cleaners and labourers",3000
+2015-Q4,construction,total,1900
+2015-Q4,construction,"professional, managers, executive and technicians",600
+2015-Q4,construction,"clerical, sales and services workers",200
+2015-Q4,construction,"production and transport operators, cleaners and labourers",1100
+2015-Q4,services,total,41700
+2015-Q4,services,"professional, managers, executive and technicians",20200
+2015-Q4,services,"clerical, sales and services workers",13700
+2015-Q4,services,"production and transport operators, cleaners and labourers",7800
+2015-Q4,others,total,400
+2015-Q4,others,"professional, managers, executive and technicians",200
+2015-Q4,others,"clerical, sales and services workers",100
+2015-Q4,others,"production and transport operators, cleaners and labourers",200
+2016-Q1,total,total,49200
+2016-Q1,total,"professional, managers, executive and technicians",24600
+2016-Q1,total,"clerical, sales and services workers",13700
+2016-Q1,total,"production and transport operators, cleaners and labourers",10900
+2016-Q1,manufacturing,total,5900
+2016-Q1,manufacturing,"professional, managers, executive and technicians",2800
+2016-Q1,manufacturing,"clerical, sales and services workers",500
+2016-Q1,manufacturing,"production and transport operators, cleaners and labourers",2600
+2016-Q1,construction,total,2000
+2016-Q1,construction,"professional, managers, executive and technicians",700
+2016-Q1,construction,"clerical, sales and services workers",200
+2016-Q1,construction,"production and transport operators, cleaners and labourers",1100
+2016-Q1,services,total,40900
+2016-Q1,services,"professional, managers, executive and technicians",20900
+2016-Q1,services,"clerical, sales and services workers",12900
+2016-Q1,services,"production and transport operators, cleaners and labourers",7100
+2016-Q1,others,total,300
+2016-Q1,others,"professional, managers, executive and technicians",200
+2016-Q1,others,"clerical, sales and services workers",-
+2016-Q1,others,"production and transport operators, cleaners and labourers",100
+2016-Q2,total,total,50500
+2016-Q2,total,"professional, managers, executive and technicians",26300
+2016-Q2,total,"clerical, sales and services workers",13300
+2016-Q2,total,"production and transport operators, cleaners and labourers",10800
+2016-Q2,manufacturing,total,6200
+2016-Q2,manufacturing,"professional, managers, executive and technicians",2800
+2016-Q2,manufacturing,"clerical, sales and services workers",500
+2016-Q2,manufacturing,"production and transport operators, cleaners and labourers",2800
+2016-Q2,construction,total,1800
+2016-Q2,construction,"professional, managers, executive and technicians",700
+2016-Q2,construction,"clerical, sales and services workers",200
+2016-Q2,construction,"production and transport operators, cleaners and labourers",1000
+2016-Q2,services,total,42100
+2016-Q2,services,"professional, managers, executive and technicians",22600
+2016-Q2,services,"clerical, sales and services workers",12600
+2016-Q2,services,"production and transport operators, cleaners and labourers",6800
+2016-Q2,others,total,400
+2016-Q2,others,"professional, managers, executive and technicians",200
+2016-Q2,others,"clerical, sales and services workers",100
+2016-Q2,others,"production and transport operators, cleaners and labourers",200
+2016-Q3,total,total,53800
+2016-Q3,total,"professional, managers, executive and technicians",25800
+2016-Q3,total,"clerical, sales and services workers",15900
+2016-Q3,total,"production and transport operators, cleaners and labourers",12100
+2016-Q3,manufacturing,total,6100
+2016-Q3,manufacturing,"professional, managers, executive and technicians",2500
+2016-Q3,manufacturing,"clerical, sales and services workers",500
+2016-Q3,manufacturing,"production and transport operators, cleaners and labourers",3000
+2016-Q3,construction,total,2400
+2016-Q3,construction,"professional, managers, executive and technicians",800
+2016-Q3,construction,"clerical, sales and services workers",200
+2016-Q3,construction,"production and transport operators, cleaners and labourers",1400
+2016-Q3,services,total,44900
+2016-Q3,services,"professional, managers, executive and technicians",22300
+2016-Q3,services,"clerical, sales and services workers",15200
+2016-Q3,services,"production and transport operators, cleaners and labourers",7400
+2016-Q3,others,total,400
+2016-Q3,others,"professional, managers, executive and technicians",200
+2016-Q3,others,"clerical, sales and services workers",-
+2016-Q3,others,"production and transport operators, cleaners and labourers",200
+2016-Q4,total,total,44500
+2016-Q4,total,"professional, managers, executive and technicians",23200
+2016-Q4,total,"clerical, sales and services workers",11700
+2016-Q4,total,"production and transport operators, cleaners and labourers",9700
+2016-Q4,manufacturing,total,5200
+2016-Q4,manufacturing,"professional, managers, executive and technicians",2300
+2016-Q4,manufacturing,"clerical, sales and services workers",300
+2016-Q4,manufacturing,"production and transport operators, cleaners and labourers",2600
+2016-Q4,construction,total,1600
+2016-Q4,construction,"professional, managers, executive and technicians",600
+2016-Q4,construction,"clerical, sales and services workers",200
+2016-Q4,construction,"production and transport operators, cleaners and labourers",900
+2016-Q4,services,total,37300
+2016-Q4,services,"professional, managers, executive and technicians",20100
+2016-Q4,services,"clerical, sales and services workers",11200
+2016-Q4,services,"production and transport operators, cleaners and labourers",6000
+2016-Q4,others,total,400
+2016-Q4,others,"professional, managers, executive and technicians",200
+2016-Q4,others,"clerical, sales and services workers",-
+2016-Q4,others,"production and transport operators, cleaners and labourers",200
+2017-Q1,total,total,45300
+2017-Q1,total,"professional, managers, executive and technicians",23700
+2017-Q1,total,"clerical, sales and services workers",10900
+2017-Q1,total,"production and transport operators, cleaners and labourers",10700
+2017-Q1,manufacturing,total,6600
+2017-Q1,manufacturing,"professional, managers, executive and technicians",2600
+2017-Q1,manufacturing,"clerical, sales and services workers",400
+2017-Q1,manufacturing,"production and transport operators, cleaners and labourers",3700
+2017-Q1,construction,total,1400
+2017-Q1,construction,"professional, managers, executive and technicians",500
+2017-Q1,construction,"clerical, sales and services workers",100
+2017-Q1,construction,"production and transport operators, cleaners and labourers",800
+2017-Q1,services,total,36900
+2017-Q1,services,"professional, managers, executive and technicians",20500
+2017-Q1,services,"clerical, sales and services workers",10400
+2017-Q1,services,"production and transport operators, cleaners and labourers",6100
+2017-Q1,others,total,400
+2017-Q1,others,"professional, managers, executive and technicians",200
+2017-Q1,others,"clerical, sales and services workers",-
+2017-Q1,others,"production and transport operators, cleaners and labourers",200
+2017-Q2,total,total,50000
+2017-Q2,total,"professional, managers, executive and technicians",27500
+2017-Q2,total,"clerical, sales and services workers",11900
+2017-Q2,total,"production and transport operators, cleaners and labourers",10500
+2017-Q2,manufacturing,total,6200
+2017-Q2,manufacturing,"professional, managers, executive and technicians",3300
+2017-Q2,manufacturing,"clerical, sales and services workers",500
+2017-Q2,manufacturing,"production and transport operators, cleaners and labourers",2500
+2017-Q2,construction,total,1800
+2017-Q2,construction,"professional, managers, executive and technicians",800
+2017-Q2,construction,"clerical, sales and services workers",100
+2017-Q2,construction,"production and transport operators, cleaners and labourers",800
+2017-Q2,services,total,41400
+2017-Q2,services,"professional, managers, executive and technicians",23100
+2017-Q2,services,"clerical, sales and services workers",11300
+2017-Q2,services,"production and transport operators, cleaners and labourers",7000
+2017-Q2,others,total,500
+2017-Q2,others,"professional, managers, executive and technicians",300
+2017-Q2,others,"clerical, sales and services workers",-
+2017-Q2,others,"production and transport operators, cleaners and labourers",200
+2017-Q3,total,total,53100
+2017-Q3,total,"professional, managers, executive and technicians",25800
+2017-Q3,total,"clerical, sales and services workers",14600
+2017-Q3,total,"production and transport operators, cleaners and labourers",12800
+2017-Q3,manufacturing,total,7200
+2017-Q3,manufacturing,"professional, managers, executive and technicians",2800
+2017-Q3,manufacturing,"clerical, sales and services workers",500
+2017-Q3,manufacturing,"production and transport operators, cleaners and labourers",3900
+2017-Q3,construction,total,2000
+2017-Q3,construction,"professional, managers, executive and technicians",700
+2017-Q3,construction,"clerical, sales and services workers",100
+2017-Q3,construction,"production and transport operators, cleaners and labourers",1100
+2017-Q3,services,total,43500
+2017-Q3,services,"professional, managers, executive and technicians",22100
+2017-Q3,services,"clerical, sales and services workers",13900
+2017-Q3,services,"production and transport operators, cleaners and labourers",7500
+2017-Q3,others,total,400
+2017-Q3,others,"professional, managers, executive and technicians",200
+2017-Q3,others,"clerical, sales and services workers",-
+2017-Q3,others,"production and transport operators, cleaners and labourers",200
+2017-Q4,total,total,46600
+2017-Q4,total,"professional, managers, executive and technicians",25700
+2017-Q4,total,"clerical, sales and services workers",12000
+2017-Q4,total,"production and transport operators, cleaners and labourers",9000
+2017-Q4,manufacturing,total,6000
+2017-Q4,manufacturing,"professional, managers, executive and technicians",3200
+2017-Q4,manufacturing,"clerical, sales and services workers",600
+2017-Q4,manufacturing,"production and transport operators, cleaners and labourers",2300
+2017-Q4,construction,total,1600
+2017-Q4,construction,"professional, managers, executive and technicians",600
+2017-Q4,construction,"clerical, sales and services workers",100
+2017-Q4,construction,"production and transport operators, cleaners and labourers",900
+2017-Q4,services,total,38700
+2017-Q4,services,"professional, managers, executive and technicians",21800
+2017-Q4,services,"clerical, sales and services workers",11300
+2017-Q4,services,"production and transport operators, cleaners and labourers",5700
+2017-Q4,others,total,300
+2017-Q4,others,"professional, managers, executive and technicians",100
+2017-Q4,others,"clerical, sales and services workers",-
+2017-Q4,others,"production and transport operators, cleaners and labourers",100
+2018-Q1,total,total,52100
+2018-Q1,total,"professional, managers, executive and technicians",29200
+2018-Q1,total,"clerical, sales and services workers",11900
+2018-Q1,total,"production and transport operators, cleaners and labourers",11100
+2018-Q1,manufacturing,total,8100
+2018-Q1,manufacturing,"professional, managers, executive and technicians",4500
+2018-Q1,manufacturing,"clerical, sales and services workers",600
+2018-Q1,manufacturing,"production and transport operators, cleaners and labourers",3000
+2018-Q1,construction,total,1500
+2018-Q1,construction,"professional, managers, executive and technicians",500
+2018-Q1,construction,"clerical, sales and services workers",100
+2018-Q1,construction,"production and transport operators, cleaners and labourers",900
+2018-Q1,services,total,42200
+2018-Q1,services,"professional, managers, executive and technicians",24000
+2018-Q1,services,"clerical, sales and services workers",11200
+2018-Q1,services,"production and transport operators, cleaners and labourers",7000
+2018-Q1,others,total,300
+2018-Q1,others,"professional, managers, executive and technicians",200
+2018-Q1,others,"clerical, sales and services workers",-
+2018-Q1,others,"production and transport operators, cleaners and labourers",100
+2018-Q2,total,total,58300
+2018-Q2,total,"professional, managers, executive and technicians",32700
+2018-Q2,total,"clerical, sales and services workers",13700
+2018-Q2,total,"production and transport operators, cleaners and labourers",11800
+2018-Q2,manufacturing,total,8300
+2018-Q2,manufacturing,"professional, managers, executive and technicians",4800
+2018-Q2,manufacturing,"clerical, sales and services workers",600
+2018-Q2,manufacturing,"production and transport operators, cleaners and labourers",2900
+2018-Q2,construction,"professional, managers, executive and technicians",600
+2018-Q2,construction,"clerical, sales and services workers",100
+2018-Q2,construction,"production and transport operators, cleaners and labourers",1200
+2018-Q2,services,total,47500
+2018-Q2,services,"professional, managers, executive and technicians",27000
+2018-Q2,services,"clerical, sales and services workers",13000
+2018-Q2,services,"production and transport operators, cleaners and labourers",7500
+2018-Q2,others,total,500
+2018-Q2,others,"professional, managers, executive and technicians",300
+2018-Q2,others,"clerical, sales and services workers",-
+2018-Q2,others,"production and transport operators, cleaners and labourers",200
+2018-Q3,total,total,63300
+2018-Q3,total,"professional, managers, executive and technicians",33400
+2018-Q3,total,"clerical, sales and services workers",14800
+2018-Q3,total,"production and transport operators, cleaners and labourers",15200
+2018-Q3,manufacturing,total,9200
+2018-Q3,manufacturing,"professional, managers, executive and technicians",4300
+2018-Q3,manufacturing,"clerical, sales and services workers",700
+2018-Q3,manufacturing,"production and transport operators, cleaners and labourers",4100
+2018-Q3,construction,total,4300
+2018-Q3,construction,"professional, managers, executive and technicians",1200
+2018-Q3,construction,"clerical, sales and services workers",300
+2018-Q3,construction,"production and transport operators, cleaners and labourers",2900
+2018-Q3,services,total,49400
+2018-Q3,services,"professional, managers, executive and technicians",27600
+2018-Q3,services,"clerical, sales and services workers",13700
+2018-Q3,services,"production and transport operators, cleaners and labourers",8000
+2018-Q3,others,total,400
+2018-Q3,others,"professional, managers, executive and technicians",200
+2018-Q3,others,"clerical, sales and services workers",-
+2018-Q3,others,"production and transport operators, cleaners and labourers",200
+2018-Q4,total,total,57800
+2018-Q4,total,"professional, managers, executive and technicians",30600
+2018-Q4,total,"clerical, sales and services workers",13900
+2018-Q4,total,"production and transport operators, cleaners and labourers",13300
+2018-Q4,manufacturing,total,7500
+2018-Q4,manufacturing,"professional, managers, executive and technicians",4000
+2018-Q4,manufacturing,"clerical, sales and services workers",700
+2018-Q4,manufacturing,"production and transport operators, cleaners and labourers",2800
+2018-Q4,construction,total,4400
+2018-Q4,construction,"professional, managers, executive and technicians",1000
+2018-Q4,construction,"clerical, sales and services workers",300
+2018-Q4,construction,"production and transport operators, cleaners and labourers",3100
+2018-Q4,services,total,45500
+2018-Q4,services,"professional, managers, executive and technicians",25400
+2018-Q4,services,"clerical, sales and services workers",12900
+2018-Q4,services,"production and transport operators, cleaners and labourers",7200
+2018-Q4,others,total,400
+2018-Q4,others,"professional, managers, executive and technicians",200
+2018-Q4,others,"clerical, sales and services workers",-
+2018-Q4,others,"production and transport operators, cleaners and labourers",200
+2019-Q1,total,total,54700
+2019-Q1,total,"professional, managers, executive and technicians",31300
+2019-Q1,total,"clerical, sales and services workers",12600
+2019-Q1,total,"production and transport operators, cleaners and labourers",10900
+2019-Q1,manufacturing,total,7200
+2019-Q1,manufacturing,"professional, managers, executive and technicians",3900
+2019-Q1,manufacturing,"clerical, sales and services workers",600
+2019-Q1,manufacturing,"production and transport operators, cleaners and labourers",2700
+2019-Q1,construction,total,3400
+2019-Q1,construction,"professional, managers, executive and technicians",1000
+2019-Q1,construction,"clerical, sales and services workers",300
+2019-Q1,construction,"production and transport operators, cleaners and labourers",2100
+2019-Q1,services,total,43700
+2019-Q1,services,"professional, managers, executive and technicians",26200
+2019-Q1,services,"clerical, sales and services workers",11700
+2019-Q1,services,"production and transport operators, cleaners and labourers",5900
+2019-Q1,others,total,400
+2019-Q1,others,"professional, managers, executive and technicians",300
+2019-Q1,others,"clerical, sales and services workers",-
+2019-Q1,others,"production and transport operators, cleaners and labourers",100
+2019-Q2,total,total,53900
+2019-Q2,total,"professional, managers, executive and technicians",31600
+2019-Q2,total,"clerical, sales and services workers",12400
+2019-Q2,total,"production and transport operators, cleaners and labourers",9800
+2019-Q2,manufacturing,total,6900
+2019-Q2,manufacturing,"professional, managers, executive and technicians",3800
+2019-Q2,manufacturing,"clerical, sales and services workers",600
+2019-Q2,manufacturing,"production and transport operators, cleaners and labourers",2600
+2019-Q2,construction,total,2200
+2019-Q2,construction,"professional, managers, executive and technicians",700
+2019-Q2,construction,"clerical, sales and services workers",200
+2019-Q2,construction,"production and transport operators, cleaners and labourers",1300
+2019-Q2,services,total,44300
+2019-Q2,services,"professional, managers, executive and technicians",26800
+2019-Q2,services,"clerical, sales and services workers",11600
+2019-Q2,services,"production and transport operators, cleaners and labourers",5900
+2019-Q2,others,total,400
+2019-Q2,others,"professional, managers, executive and technicians",300
+2019-Q2,others,"clerical, sales and services workers",-
+2019-Q2,others,"production and transport operators, cleaners and labourers",100
+2019-Q3,total,total,52900
+2019-Q3,total,"professional, managers, executive and technicians",30900
+2019-Q3,total,"clerical, sales and services workers",11800
+2019-Q3,total,"production and transport operators, cleaners and labourers",10300
+2019-Q3,manufacturing,total,6200
+2019-Q3,manufacturing,"professional, managers, executive and technicians",3100
+2019-Q3,manufacturing,"clerical, sales and services workers",500
+2019-Q3,manufacturing,"production and transport operators, cleaners and labourers",2500
+2019-Q3,construction,total,2300
+2019-Q3,construction,"professional, managers, executive and technicians",1000
+2019-Q3,construction,"clerical, sales and services workers",200
+2019-Q3,construction,"production and transport operators, cleaners and labourers",1100
+2019-Q3,services,total,44200
+2019-Q3,services,"professional, managers, executive and technicians",26500
+2019-Q3,services,"clerical, sales and services workers",11000
+2019-Q3,services,"production and transport operators, cleaners and labourers",6600
+2019-Q3,others,total,300
+2019-Q3,others,"professional, managers, executive and technicians",200
+2019-Q3,others,"clerical, sales and services workers",-
+2019-Q3,others,"production and transport operators, cleaners and labourers",100
+2019-Q4,total,total,50000
+2019-Q4,total,"professional, managers, executive and technicians",29000
+2019-Q4,total,"clerical, sales and services workers",11600
+2019-Q4,total,"production and transport operators, cleaners and labourers",9400
+2019-Q4,manufacturing,total,6000
+2019-Q4,manufacturing,"professional, managers, executive and technicians",2900
+2019-Q4,manufacturing,"clerical, sales and services workers",400
+2019-Q4,manufacturing,"production and transport operators, cleaners and labourers",2700
+2019-Q4,construction,total,1200
+2019-Q4,construction,"professional, managers, executive and technicians",600
+2019-Q4,construction,"clerical, sales and services workers",100
+2019-Q4,construction,"production and transport operators, cleaners and labourers",600
+2019-Q4,services,total,42400
+2019-Q4,services,"professional, managers, executive and technicians",25200
+2019-Q4,services,"clerical, sales and services workers",11100
+2019-Q4,services,"production and transport operators, cleaners and labourers",6100
+2019-Q4,others,total,400
+2019-Q4,others,"professional, managers, executive and technicians",300
+2019-Q4,others,"clerical, sales and services workers",-
+2019-Q4,others,"production and transport operators, cleaners and labourers",100
+2020-Q1,total,total,44400
+2020-Q1,total,"professional, managers, executive and technicians",27000
+2020-Q1,total,"clerical, sales and services workers",8500
+2020-Q1,total,"production and transport operators, cleaners and labourers",8900
+2020-Q1,manufacturing,total,6100
+2020-Q1,manufacturing,"professional, managers, executive and technicians",2900
+2020-Q1,manufacturing,"clerical, sales and services workers",200
+2020-Q1,manufacturing,"production and transport operators, cleaners and labourers",3000
+2020-Q1,construction,total,1300
+2020-Q1,construction,"professional, managers, executive and technicians",500
+2020-Q1,construction,"clerical, sales and services workers",100
+2020-Q1,construction,"production and transport operators, cleaners and labourers",700
+2020-Q1,services,total,36500
+2020-Q1,services,"professional, managers, executive and technicians",23300
+2020-Q1,services,"clerical, sales and services workers",8100
+2020-Q1,services,"production and transport operators, cleaners and labourers",5100
+2020-Q1,others,total,400
+2020-Q1,others,"professional, managers, executive and technicians",300
+2020-Q1,others,"clerical, sales and services workers",-
+2020-Q1,others,"production and transport operators, cleaners and labourers",100
+2020-Q2,total,total,42800
+2020-Q2,total,"professional, managers, executive and technicians",26000
+2020-Q2,total,"clerical, sales and services workers",8300
+2020-Q2,total,"production and transport operators, cleaners and labourers",8500
+2020-Q2,manufacturing,total,4600
+2020-Q2,manufacturing,"professional, managers, executive and technicians",2500
+2020-Q2,manufacturing,"clerical, sales and services workers",300
+2020-Q2,manufacturing,"production and transport operators, cleaners and labourers",1800
+2020-Q2,construction,total,900
+2020-Q2,construction,"professional, managers, executive and technicians",500
+2020-Q2,construction,"clerical, sales and services workers",100
+2020-Q2,construction,"production and transport operators, cleaners and labourers",400
+2020-Q2,services,total,36900
+2020-Q2,services,"professional, managers, executive and technicians",22700
+2020-Q2,services,"clerical, sales and services workers",7900
+2020-Q2,services,"production and transport operators, cleaners and labourers",6200
+2020-Q2,others,total,400
+2020-Q2,others,"professional, managers, executive and technicians",200
+2020-Q2,others,"clerical, sales and services workers",-
+2020-Q2,others,"production and transport operators, cleaners and labourers",100
+2020-Q3,total,total,53300
+2020-Q3,total,"professional, managers, executive and technicians",30200
+2020-Q3,total,"clerical, sales and services workers",11600
+2020-Q3,total,"production and transport operators, cleaners and labourers",11500
+2020-Q3,manufacturing,total,5400
+2020-Q3,manufacturing,"professional, managers, executive and technicians",2300
+2020-Q3,manufacturing,"clerical, sales and services workers",500
+2020-Q3,manufacturing,"production and transport operators, cleaners and labourers",2500
+2020-Q3,construction,total,3500
+2020-Q3,construction,"professional, managers, executive and technicians",1000
+2020-Q3,construction,"clerical, sales and services workers",200
+2020-Q3,construction,"production and transport operators, cleaners and labourers",2300
+2020-Q3,services,total,44000
+2020-Q3,services,"professional, managers, executive and technicians",26600
+2020-Q3,services,"clerical, sales and services workers",10900
+2020-Q3,services,"production and transport operators, cleaners and labourers",6600
+2020-Q3,others,total,400
+2020-Q3,others,"professional, managers, executive and technicians",300
+2020-Q3,others,"clerical, sales and services workers",-
+2020-Q3,others,"production and transport operators, cleaners and labourers",100
+2020-Q4,total,total,53000
+2020-Q4,total,"professional, managers, executive and technicians",29500
+2020-Q4,total,"clerical, sales and services workers",10600
+2020-Q4,total,"production and transport operators, cleaners and labourers",12900
+2020-Q4,manufacturing,total,5900
+2020-Q4,manufacturing,"professional, managers, executive and technicians",2500
+2020-Q4,manufacturing,"clerical, sales and services workers",500
+2020-Q4,manufacturing,"production and transport operators, cleaners and labourers",2900
+2020-Q4,construction,total,4900
+2020-Q4,construction,"professional, managers, executive and technicians",1100
+2020-Q4,construction,"clerical, sales and services workers",200
+2020-Q4,construction,"production and transport operators, cleaners and labourers",3600
+2020-Q4,services,total,42000
+2020-Q4,services,"professional, managers, executive and technicians",25800
+2020-Q4,services,"clerical, sales and services workers",9800
+2020-Q4,services,"production and transport operators, cleaners and labourers",6400
+2020-Q4,others,total,200
+2020-Q4,others,"professional, managers, executive and technicians",200
+2020-Q4,others,"clerical, sales and services workers",-
+2020-Q4,others,"production and transport operators, cleaners and labourers",-
+2021-Q1,total,total,67000
+2021-Q1,total,"professional, managers, executive and technicians",37600
+2021-Q1,total,"clerical, sales and services workers",12900
+2021-Q1,total,"production and transport operators, cleaners and labourers",16500
+2021-Q1,manufacturing,total,8900
+2021-Q1,manufacturing,"professional, managers, executive and technicians",3800
+2021-Q1,manufacturing,"clerical, sales and services workers",600
+2021-Q1,manufacturing,"production and transport operators, cleaners and labourers",4600
+2021-Q1,construction,total,6500
+2021-Q1,construction,"professional, managers, executive and technicians",1500
+2021-Q1,construction,"clerical, sales and services workers",700
+2021-Q1,construction,"production and transport operators, cleaners and labourers",4200
+2021-Q1,services,total,51100
+2021-Q1,services,"professional, managers, executive and technicians",32000
+2021-Q1,services,"clerical, sales and services workers",11600
+2021-Q1,services,"production and transport operators, cleaners and labourers",7500
+2021-Q1,others,total,500
+2021-Q1,others,"professional, managers, executive and technicians",300
+2021-Q1,others,"clerical, sales and services workers",-
+2021-Q1,others,"production and transport operators, cleaners and labourers",100
+2021-Q2,total,total,93800
+2021-Q2,total,"professional, managers, executive and technicians",49400
+2021-Q2,total,"clerical, sales and services workers",15100
+2021-Q2,total,"production and transport operators, cleaners and labourers",29300
+2021-Q2,manufacturing,total,15200
+2021-Q2,manufacturing,"professional, managers, executive and technicians",5400
+2021-Q2,manufacturing,"clerical, sales and services workers",1000
+2021-Q2,manufacturing,"production and transport operators, cleaners and labourers",8900
+2021-Q2,construction,total,11600
+2021-Q2,construction,"professional, managers, executive and technicians",2200
+2021-Q2,construction,"clerical, sales and services workers",600
+2021-Q2,construction,"production and transport operators, cleaners and labourers",8800
+2021-Q2,services,"professional, managers, executive and technicians",41500
+2021-Q2,services,"clerical, sales and services workers",13500
+2021-Q2,services,"production and transport operators, cleaners and labourers",11200
+2021-Q2,others,total,800
+2021-Q2,others,"professional, managers, executive and technicians",400
+2021-Q2,others,"clerical, sales and services workers",-
+2021-Q2,others,"production and transport operators, cleaners and labourers",400
+2021-Q3,total,total,104200
+2021-Q3,total,"professional, managers, executive and technicians",55200
+2021-Q3,total,"clerical, sales and services workers",19400
+2021-Q3,total,"production and transport operators, cleaners and labourers",29500
+2021-Q3,manufacturing,total,13400
+2021-Q3,manufacturing,"professional, managers, executive and technicians",5600
+2021-Q3,manufacturing,"clerical, sales and services workers",900
+2021-Q3,manufacturing,"production and transport operators, cleaners and labourers",6900
+2021-Q3,construction,total,11900
+2021-Q3,construction,"professional, managers, executive and technicians",2500
+2021-Q3,construction,"clerical, sales and services workers",700
+2021-Q3,construction,"production and transport operators, cleaners and labourers",8600
+2021-Q3,services,total,78000
+2021-Q3,services,"professional, managers, executive and technicians",46600
+2021-Q3,services,"clerical, sales and services workers",17700
+2021-Q3,services,"production and transport operators, cleaners and labourers",13700
+2021-Q3,others,total,900
+2021-Q3,others,"professional, managers, executive and technicians",500
+2021-Q3,others,"clerical, sales and services workers",100
+2021-Q3,others,"production and transport operators, cleaners and labourers",300
+2021-Q4,total,total,114000
+2021-Q4,total,"professional, managers, executive and technicians",63200
+2021-Q4,total,"clerical, sales and services workers",20800
+2021-Q4,total,"production and transport operators, cleaners and labourers",30000
+2021-Q4,manufacturing,total,13800
+2021-Q4,manufacturing,"professional, managers, executive and technicians",5500
+2021-Q4,manufacturing,"clerical, sales and services workers",1300
+2021-Q4,manufacturing,"production and transport operators, cleaners and labourers",7000
+2021-Q4,construction,total,12400
+2021-Q4,construction,"professional, managers, executive and technicians",2400
+2021-Q4,construction,"clerical, sales and services workers",600
+2021-Q4,construction,"production and transport operators, cleaners and labourers",9300
+2021-Q4,services,total,87200
+2021-Q4,services,"professional, managers, executive and technicians",54800
+2021-Q4,services,"clerical, sales and services workers",18900
+2021-Q4,services,"production and transport operators, cleaners and labourers",13400
+2021-Q4,others,total,700
+2021-Q4,others,"professional, managers, executive and technicians",500
+2021-Q4,others,"clerical, sales and services workers",-
+2021-Q4,others,"production and transport operators, cleaners and labourers",200
+2022-Q1,total,total,123100
+2022-Q1,total,"professional, managers, executive and technicians",69700
+2022-Q1,total,"clerical, sales and services workers",23200
+2022-Q1,total,"production and transport operators, cleaners and labourers",30100
+2022-Q1,manufacturing,total,14500
+2022-Q1,manufacturing,"professional, managers, executive and technicians",6500
+2022-Q1,manufacturing,"clerical, sales and services workers",1400
+2022-Q1,manufacturing,"production and transport operators, cleaners and labourers",6600
+2022-Q1,construction,total,12300
+2022-Q1,construction,"professional, managers, executive and technicians",2700
+2022-Q1,construction,"clerical, sales and services workers",700
+2022-Q1,construction,"production and transport operators, cleaners and labourers",8900
+2022-Q1,services,total,95400
+2022-Q1,services,"professional, managers, executive and technicians",60000
+2022-Q1,services,"clerical, sales and services workers",21100
+2022-Q1,services,"production and transport operators, cleaners and labourers",14200
+2022-Q1,others,total,900
+2022-Q1,others,"professional, managers, executive and technicians",500
+2022-Q1,others,"clerical, sales and services workers",-
+2022-Q1,others,"production and transport operators, cleaners and labourers",400
+2022-Q2,total,total,127000
+2022-Q2,total,"professional, managers, executive and technicians",70600
+2022-Q2,total,"clerical, sales and services workers",26200
+2022-Q2,total,"production and transport operators, cleaners and labourers",30100
+2022-Q2,manufacturing,total,15900
+2022-Q2,manufacturing,"professional, managers, executive and technicians",7500
+2022-Q2,manufacturing,"clerical, sales and services workers",1400
+2022-Q2,manufacturing,"production and transport operators, cleaners and labourers",7000
+2022-Q2,construction,total,11700
+2022-Q2,construction,"professional, managers, executive and technicians",2600
+2022-Q2,construction,"clerical, sales and services workers",800
+2022-Q2,construction,"production and transport operators, cleaners and labourers",8200
+2022-Q2,services,total,98800
+2023-Q2,services,"clerical, sales and services workers",18800
+2022-Q2,services,"professional, managers, executive and technicians",60100
+2022-Q2,services,"clerical, sales and services workers",23900
+2022-Q2,services,"production and transport operators, cleaners and labourers",14700
+2022-Q2,others,total,600
+2022-Q2,others,"professional, managers, executive and technicians",500
+2022-Q2,others,"clerical, sales and services workers",-
+2022-Q2,others,"production and transport operators, cleaners and labourers",100
+2022-Q3,total,total,107200
+2022-Q3,total,"professional, managers, executive and technicians",60000
+2022-Q3,total,"clerical, sales and services workers",23400
+2022-Q3,total,"production and transport operators, cleaners and labourers",23800
+2022-Q3,manufacturing,total,12100
+2022-Q3,manufacturing,"professional, managers, executive and technicians",5700
+2022-Q3,manufacturing,"clerical, sales and services workers",900
+2022-Q3,manufacturing,"production and transport operators, cleaners and labourers",5400
+2022-Q3,construction,total,8300
+2022-Q3,construction,"professional, managers, executive and technicians",2300
+2022-Q3,construction,"clerical, sales and services workers",600
+2022-Q3,construction,"production and transport operators, cleaners and labourers",5400
+2022-Q3,services,total,86200
+2022-Q3,services,"professional, managers, executive and technicians",51600
+2022-Q3,services,"clerical, sales and services workers",21900
+2022-Q3,services,"production and transport operators, cleaners and labourers",12800
+2022-Q3,others,total,600
+2022-Q3,others,"professional, managers, executive and technicians",400
+2022-Q3,others,"clerical, sales and services workers",-
+2022-Q3,others,"production and transport operators, cleaners and labourers",100
+2022-Q4,total,total,102700
+2022-Q4,total,"professional, managers, executive and technicians",54400
+2022-Q4,total,"clerical, sales and services workers",24400
+2022-Q4,total,"production and transport operators, cleaners and labourers",23900
+2022-Q4,manufacturing,total,11300
+2022-Q4,manufacturing,"professional, managers, executive and technicians",5200
+2022-Q4,manufacturing,"clerical, sales and services workers",1100
+2022-Q4,manufacturing,"production and transport operators, cleaners and labourers",5000
+2022-Q4,construction,total,8800
+2022-Q4,construction,"professional, managers, executive and technicians",2100
+2022-Q4,construction,"clerical, sales and services workers",600
+2022-Q4,construction,"production and transport operators, cleaners and labourers",6100
+2022-Q4,services,total,81900
+2022-Q4,services,"professional, managers, executive and technicians",46900
+2022-Q4,services,"clerical, sales and services workers",22600
+2022-Q4,services,"production and transport operators, cleaners and labourers",12500
+2022-Q4,others,total,700
+2022-Q4,others,"professional, managers, executive and technicians",400
+2022-Q4,others,"clerical, sales and services workers",-
+2022-Q4,others,"production and transport operators, cleaners and labourers",300
+2023-Q1,total,total,97400
+2023-Q1,total,"professional, managers, executive and technicians",53800
+2023-Q1,total,"clerical, sales and services workers",21600
+2023-Q1,total,"production and transport operators, cleaners and labourers",22000
+2023-Q1,manufacturing,total,9500
+2023-Q1,manufacturing,"professional, managers, executive and technicians",4400
+2023-Q1,manufacturing,"clerical, sales and services workers",1200
+2023-Q1,manufacturing,"production and transport operators, cleaners and labourers",3900
+2023-Q1,construction,total,7700
+2023-Q1,construction,"professional, managers, executive and technicians",2200
+2023-Q1,construction,"clerical, sales and services workers",600
+2023-Q1,construction,"production and transport operators, cleaners and labourers",5000
+2023-Q1,services,total,79500
+2023-Q1,services,"professional, managers, executive and technicians",46800
+2023-Q1,services,"clerical, sales and services workers",19800
+2023-Q1,services,"production and transport operators, cleaners and labourers",12900
+2023-Q1,others,total,700
+2023-Q1,others,"professional, managers, executive and technicians",500
+2023-Q1,others,"clerical, sales and services workers",100
+2023-Q1,others,"production and transport operators, cleaners and labourers",200
+2023-Q2,total,total,89400
+2023-Q2,total,"professional, managers, executive and technicians",51500
+2023-Q2,total,"clerical, sales and services workers",20700
+2023-Q2,total,"production and transport operators, cleaners and labourers",17300
+2023-Q2,manufacturing,total,8500
+2023-Q2,manufacturing,"professional, managers, executive and technicians",4200
+2023-Q2,manufacturing,"clerical, sales and services workers",1200
+2023-Q2,manufacturing,"production and transport operators, cleaners and labourers",3200
+2023-Q2,construction,total,7200
+2023-Q2,construction,"professional, managers, executive and technicians",2400
+2023-Q2,construction,"clerical, sales and services workers",600
+2023-Q2,construction,"production and transport operators, cleaners and labourers",4200
+2023-Q2,services,total,73000
+2023-Q2,services,"professional, managers, executive and technicians",44500
+2023-Q2,services,"production and transport operators, cleaners and labourers",9700
+2023-Q2,others,total,700
+2023-Q2,others,"professional, managers, executive and technicians",400
+2023-Q2,others,"clerical, sales and services workers",-
+2023-Q2,others,"production and transport operators, cleaners and labourers",200
+2023-Q3,total,total,78100
+2023-Q3,total,"professional, managers, executive and technicians",44700
+2023-Q3,total,"clerical, sales and services workers",18800
+2023-Q3,total,"production and transport operators, cleaners and labourers",14700
+2023-Q3,manufacturing,total,6700
+2023-Q3,manufacturing,"professional, managers, executive and technicians",3500
+2023-Q3,manufacturing,"clerical, sales and services workers",800
+2023-Q3,manufacturing,"production and transport operators, cleaners and labourers",2400
+2023-Q3,construction,total,5900
+2023-Q3,construction,"professional, managers, executive and technicians",2000
+2023-Q3,construction,"clerical, sales and services workers",400
+2023-Q3,construction,"production and transport operators, cleaners and labourers",3500
+2023-Q3,services,total,64900
+2023-Q3,services,"professional, managers, executive and technicians",38700
+2023-Q3,services,"clerical, sales and services workers",17600
+2023-Q3,services,"production and transport operators, cleaners and labourers",8600
+2023-Q3,others,total,600
+2023-Q3,others,"professional, managers, executive and technicians",400
+2023-Q3,others,"clerical, sales and services workers",-
+2023-Q3,others,"production and transport operators, cleaners and labourers",200
+2023-Q4,total,total,78300
+2023-Q4,total,"professional, managers, executive and technicians",43200
+2023-Q4,total,"clerical, sales and services workers",19400
+2023-Q4,total,"production and transport operators, cleaners and labourers",15800
+2023-Q4,manufacturing,total,8500
+2023-Q4,manufacturing,"professional, managers, executive and technicians",4300
+2023-Q4,manufacturing,"clerical, sales and services workers",1200
+2023-Q4,manufacturing,"production and transport operators, cleaners and labourers",3000
+2023-Q4,construction,total,6300
+2023-Q4,construction,"professional, managers, executive and technicians",2100
+2023-Q4,construction,"clerical, sales and services workers",500
+2023-Q4,construction,"production and transport operators, cleaners and labourers",3700
+2023-Q4,services,total,62800
+2023-Q4,services,"professional, managers, executive and technicians",36400
+2023-Q4,services,"clerical, sales and services workers",17500
+2023-Q4,services,"production and transport operators, cleaners and labourers",8800
+2023-Q4,others,total,800
+2023-Q4,others,"professional, managers, executive and technicians",400
+2023-Q4,others,"clerical, sales and services workers",100
+2023-Q4,others,"production and transport operators, cleaners and labourers",300
+2024-Q1,total,total,82200
+2024-Q1,total,"professional, managers, executive and technicians",45700
+2024-Q1,total,"clerical, sales and services workers",19400
+2024-Q1,total,"production and transport operators, cleaners and labourers",17100
+2024-Q1,manufacturing,total,9400
+2024-Q1,manufacturing,"professional, managers, executive and technicians",4600
+2024-Q1,manufacturing,"clerical, sales and services workers",1400
+2024-Q1,manufacturing,"production and transport operators, cleaners and labourers",3300
+2024-Q1,construction,total,7400
+2024-Q1,construction,"professional, managers, executive and technicians",2000
+2024-Q1,construction,"clerical, sales and services workers",600
+2024-Q1,construction,"production and transport operators, cleaners and labourers",4800
+2024-Q1,services,total,64800
+2024-Q1,services,"professional, managers, executive and technicians",38500
+2024-Q1,services,"clerical, sales and services workers",17400
+2024-Q1,services,"production and transport operators, cleaners and labourers",8900
+2024-Q1,others,total,700
+2024-Q1,others,"professional, managers, executive and technicians",500
+2024-Q1,others,"clerical, sales and services workers",-
+2024-Q1,others,"production and transport operators, cleaners and labourers",200
+2024-Q2,total,total,82600
+2024-Q2,total,"professional, managers, executive and technicians",45300
+2024-Q2,total,"clerical, sales and services workers",19100
+2024-Q2,total,"production and transport operators, cleaners and labourers",18200
+2024-Q2,manufacturing,total,8700
+2024-Q2,manufacturing,"professional, managers, executive and technicians",4200
+2024-Q2,manufacturing,"clerical, sales and services workers",1500
+2024-Q2,manufacturing,"production and transport operators, cleaners and labourers",3000
+2024-Q2,construction,total,8700
+2024-Q2,construction,"professional, managers, executive and technicians",2300
+2024-Q2,construction,"clerical, sales and services workers",600
+2024-Q2,construction,"production and transport operators, cleaners and labourers",5800
+2024-Q2,services,total,64800
+2024-Q2,services,"professional, managers, executive and technicians",38700
+2024-Q2,services,"clerical, sales and services workers",16900
+2024-Q2,services,"production and transport operators, cleaners and labourers",9200
+2024-Q2,others,total,400
+2024-Q2,others,"professional, managers, executive and technicians",200
+2024-Q2,others,"clerical, sales and services workers",-
+2024-Q2,others,"production and transport operators, cleaners and labourers",200
+2024-Q3,total,total,61400
+2024-Q3,total,"professional, managers, executive and technicians",35400
+2024-Q3,total,"clerical, sales and services workers",14800
+2024-Q3,total,"production and transport operators, cleaners and labourers",11200
+2024-Q3,manufacturing,total,6100
+2024-Q3,manufacturing,"professional, managers, executive and technicians",3500
+2024-Q3,manufacturing,"clerical, sales and services workers",900
+2024-Q3,manufacturing,"production and transport operators, cleaners and labourers",1700
+2024-Q3,construction,total,4900
+2024-Q3,construction,"professional, managers, executive and technicians",2100
+2024-Q3,construction,"clerical, sales and services workers",300
+2024-Q3,construction,"production and transport operators, cleaners and labourers",2500
+2024-Q3,services,total,49800
+2024-Q3,services,"professional, managers, executive and technicians",29400
+2024-Q3,services,"clerical, sales and services workers",13500
+2024-Q3,services,"production and transport operators, cleaners and labourers",6900
+2024-Q3,others,total,600
+2024-Q3,others,"professional, managers, executive and technicians",400
+2024-Q3,others,"clerical, sales and services workers",-
+2024-Q3,others,"production and transport operators, cleaners and labourers",100
